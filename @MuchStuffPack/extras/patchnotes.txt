@@ -1,0 +1,10 @@
+Patch notes:
+- Added lamps | You can use car/truck batteries with wires to connect them and turn them on for lighting up your base. In future more options will be added. 
+Please refrain from using too many lights in base if you value your client FPS (this is a dayz engine issue)
+    - Ceiling Mosaic Lamp - Snaps to ceilings like BBP and in vanilla houses
+    - Standing Wood Lamp
+- Moved gunwall slightly back to sit better on walls
+- Moved medical box slightly lower
+- Code refactors to work with MuchFramework
+- Dependency on MuchFramework
+- Config for codelock and proxies are now in MuchFramework folder in profiles

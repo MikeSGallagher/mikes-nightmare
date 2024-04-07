@@ -1,0 +1,16 @@
+{
+    "m_Admins": [
+        {
+            "m_PlainID": "76561198796326626",  //Steam64ID from the Admin
+            "m_Name": "DevKrypton",  //Admins Name.
+            "m_permissions": {
+                "m_CanUseServerConfig": 1, //Can this admin edit the server-config.json (1 = yes, 0 = no).
+                "m_CanUsePlayersBankData": 1, //Can this admin edit players bank accounts. (1 = yes, 0 = no).
+                "m_CanUsePlayersClans": 1,  //Can this admin edit clan bank accounts (1 = yes, 0 = no).
+                "m_CanUseMiscServer": 1,  //Can use the Misc tab ingame (1 = yes, 0 = no).
+                "m_CanAddAdmins": 1,  //Can this Admin add admins (1 = yes, 0 = no).
+                "m_CanIgnoreNamePermission": 1  //Can this Admin ignore name permission (Menu is usable with any name.) (1 = yes, 0 = no admin needs the name frpm config param: m_Name).
+            }
+        }
+    ]
+}

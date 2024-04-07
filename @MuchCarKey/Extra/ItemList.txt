@@ -1,0 +1,29 @@
+Vehicle keys
+MCK_CarKey_Base
+MCK_CarKey_Blue
+MCK_CarKey_Green
+MCK_CarKey_White
+MCK_CarKey_Yellow
+MCK_CarKey_Red
+
+Tags for keys
+MCK_CarKeyTag_Base
+MCK_CarKeyTag_OlgaBlack
+MCK_CarKeyTag_OlgaWhite
+MCK_CarKeyTag_OlgaWine
+MCK_CarKeyTag_AdaBlue
+MCK_CarKeyTag_AdaWhite
+MCK_CarKeyTag_AdaGreen
+MCK_CarKeyTag_GunterBlue
+MCK_CarKeyTag_GunterBlack
+MCK_CarKeyTag_GunterRed
+MCK_CarKeyTag_SarkaGrey
+MCK_CarKeyTag_SarkaRed
+MCK_CarKeyTag_SarkaYellow
+MCK_CarKeyTag_Black
+MCK_CarKeyTag_Blue
+MCK_CarKeyTag_Green
+MCK_CarKeyTag_Grey
+MCK_CarKeyTag_Red
+MCK_CarKeyTag_White
+MCK_CarKeyTag_Yellow

@@ -1,0 +1,16 @@
+{
+    "m_Admins": [
+        {
+            "m_PlainID": "76561197987495141",
+            "m_Name": "SmashFlash",
+            "m_permissions": {
+                "m_CanUseServerConfig": 1,
+                "m_CanUsePlayersBankData": 1,
+                "m_CanUsePlayersClans": 1,
+                "m_CanUseMiscServer": 1,
+                "m_CanAddAdmins": 1,
+                "m_CanIgnoreNamePermission": 1
+            }
+        }
+    ]
+}
