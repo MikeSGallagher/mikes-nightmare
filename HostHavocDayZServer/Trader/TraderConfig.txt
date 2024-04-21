@@ -142,7 +142,7 @@
 
 <Trader> Misc Trader
 	<Category> Munghards Itempack	
-	    	clownmask_mung,			             *,		 100,	 50	
+	    clownmask_mung,			             *,		 100,	 50	
 		strawhat_mung,                       *,      100,    50
 		jesterhat_mung,                      *,      100,    50
 		bandana_mung,                        *,      100,    50
@@ -216,8 +216,9 @@
 		makeshifttent_mung,			         *,		 1000,	 500	
 		gunwall_kit_mung,                    *,      1000,   400
 		gunwall_metal_kit_mung,              *,      1000,   400	
+	
 	<Category> Mass's ManyItemOverhaul  
-            		Mass_PressVestBlack,			*,		1000,	5	
+            Mass_PressVestBlack,			*,		1000,	5	
 			Masswoodlandcamovest,			*,		1000,	5	
 			MassSmershvestcomplete,			*,		1000,	5	
 			MassSmershvestWintercomplete,	*,		1000,	5	
@@ -367,13 +368,13 @@
 			MassNBC_Bag,					*,		1000,	5	
 			MassAR500,						*,		1000,	5	
 			MassAR500pair,					*,		1000,	5	
-           		AmmoBox_408Chey,				*,		1000,	5	
+           	AmmoBox_408Chey,				*,		1000,	5	
 			AmmoBox_12gaBB,					*,		1000,	5	
 			AmmoBox_338,					*,		1000,	5	
 			MassScoutSuppressor,			*,		1000,	5	
 			shotgun_Suppressor,				*,		1000,	5	
 			MassSuppressor308,				*,		1000,	5	
-            		MassSVT40,						*,		1000,	5	
+            MassSVT40,						*,		1000,	5	
 			MassSVT40_Black,				*,		1000,	5	
 			MassSVT40_Green,				*,		1000,	5	
 			MassSVT40_Camo,					*,		1000,	5	
@@ -389,7 +390,7 @@
 			MassPpskn,						*,		1000,	5	
 			MassM110,						*,		1000,	5	
 			Massarmsan,						*,		1000,	5	
-            		Ammo_408Chey,					*,		1000,	5	
+            Ammo_408Chey,					*,		1000,	5	
 			Ammo_338,						*,		1000,	5	
 			Ammo_12GaBB,					*,		1000,	5	
 			Scout556mag,					*,		1000,	5	
@@ -407,6 +408,7 @@
 			MassRuckBagBlack,				*,		1000,	5
 			MassRuckBagGorka,				*,		1000,	5
 			MassRuckBagGreen,				*,		1000,	5
+	
 	<Category> Tools (small)
 		Screwdriver,			*,		3,		1
 		Wrench,					*,		3,		1
@@ -596,6 +598,366 @@
 
 		
 <Trader> Weapon Trader
+
+<Category> Tactical Flava Optics
+TF_ElcanSpecterDROptic_FDE, *, 2500, 1000
+TF_ElcanSpecterDROptic_Black, *, 2500, 1000
+TF_ElcanSpecterDR_6xOptic_FDE, *, 2500, 1000
+TF_ElcanSpecterDR_6xOptic_Black, *, 2500, 1000
+TF_EOTechXPSOpticDown_Black, *, 2500, 1000
+TF_EOTechXPSOpticUp_Black, *, 2500, 1000
+TF_DeltaPointOptic_Black, *, 2500, 1000
+TF_HAMROptic_Black, *, 2500, 1000
+TF_OTs_14_GrozaOptic, *, 2500, 1000
+TF_PK122_ValdayOptic, *, 2500, 1000
+TF_OKP7Optic, *, 2500, 1000
+TF_M4_ColtA2Optic, *, 2500, 1000
+
+<Category> Tactical Flava Buttstocks
+TF_SCAR_Mk20Bttstck_FDE, *, 2500, 1000
+TF_SCAR_Mk20Bttstck_Black, *, 2500, 1000
+TF_SCAR_Mk20Bttstck_Shd, *, 2500, 1000
+TF_SCAR_StndBttstck_FDE, *, 2500, 1000
+TF_SCAR_StndBttstck_Black, *, 2500, 1000
+TF_SCAR_VadapterBttstck, *, 2500, 1000
+TF_AK_AdapterBttstck, *, 2500, 1000
+TF_AK_MVRIBttstck, *, 2500, 1000
+TF_AK_Zenit_PT1Bttstck, *, 2500, 1000
+TF_AK_MagpulZhukovBttstck, *, 2500, 1000
+TF_AN94_AdapterBttstck, *, 2500, 1000
+TF_AN94_PlasticBttstck, *, 2500, 1000
+TF_M4_ADARBttstck, *, 2500, 1000
+TF_M4_CMMG_RIPBttstck, *, 2500, 1000
+TF_M4_B5PrecisionBttstck, *, 2500, 1000
+TF_M4_FABDGLCoreBttstck, *, 2500, 1000
+TF_M4_MagpulPRSGen3Bttstck_Black, *, 2500, 1000
+TF_M4_MagpulPRSGen3Bttstck_Grey, *, 2500, 1000
+TF_M4CraneBttstck, *, 2500, 1000
+TF_M16_Bttstck, *, 2500, 1000
+TF_PKM_CNCC39Bttstck, *, 2500, 1000
+TF_PKM_ZenitPT2Bttstck, *, 2500, 1000
+TF_PKM_WoodBttstck, *, 2500, 1000
+TF_PKP_PlasticBttstck, *, 2500, 1000
+
+<Category> Tactical Flava Grips
+TF_M4_MIADPistolGrip_FDE, *, 2500, 1000
+TF_M4_MOEPistolGrip_FDE, *, 2500, 1000
+TF_M4_MOEPistolGrip_Black, *, 2500, 1000
+TF_M4_OMRGPistolGrip_FDE, *, 2500, 1000
+TF_M4_OMRGPistolGrip_Black, *, 2500, 1000
+TF_M4_TDSPistolGrip, *, 2500, 1000
+TF_AK_ZenitRK3PistolGrip, *, 2500, 1000
+TF_AK_KGBMG47PistolGrip_FDE, *, 2500, 1000
+TF_AK_MOEPistolGrip_Black, *, 2500, 1000
+TF_AK_TAPCOPistolGrip_Black, *, 2500, 1000
+TF_AK_TAPCOPistolGrip_FDE, *, 2500, 1000
+TF_SAW_RIS_Grip_FDE, *, 2500, 1000
+TF_SAW_RIS_Grip_Black, *, 2500, 1000
+TF_AFG_RIS_Grip_FDE, *, 2500, 1000
+TF_AFG_RIS_Grip_Black, *, 2500, 1000
+TF_AFG_MLOCK_Grip_FDE, *, 2500, 1000
+TF_AFG_MLOCK_Grip_Black, *, 2500, 1000
+TF_BCM_MLOCK_Grip_FDE, *, 2500, 1000
+TF_BCM_MLOCK_Grip_Black, *, 2500, 1000
+TF_RVG_RIS_Grip_FDE, *, 2500, 1000
+TF_RVG_RIS_Grip_Black, *, 2500, 1000
+TF_ZenitRK1B25U_RIS_Grip, *, 2500, 1000
+
+<Category> Tactical Flava Attachments
+TF_SCAR_ADDHndgrd, *, 2500, 1000
+TF_SCAR_MREXHndgrd_FDE, *, 2500, 1000
+TF_SCAR_MREXHndgrd_Black, *, 2500, 1000
+TF_SCAR_StndHndgrd, *, 2500, 1000
+TF_AKS74U_WoodHndgrd, *, 2500, 1000
+TF_AKS74U_CAAHndgrd_RIS, *, 2500, 1000
+TF_AKS74U_ZenitB11PlasticHndgrd_RIS, *, 2500, 1000
+TF_AKS74U_ZenitB11WoodHndgrd_RIS, *, 2500, 1000
+TF_AK_ZenitB30B31Hndgrd_RIS, *, 2500, 1000
+TF_AK_MagpulMOEHndgrd_MLOCK, *, 2500, 1000
+TF_AK_MagpulZhukovHndgrdU_MLOCK, *, 2500, 1000
+TF_AK_ZenitB10MB19Hndgrd_RIS, *, 2500, 1000
+TF_AR10_CMMG15Hndgrd_MLOCK, *, 2500, 1000
+TF_AR10_CMMG9Hndgrd_MLOCK, *, 2500, 1000
+TF_AR10_KACHndgrd_RIS, *, 2500, 1000
+TF_AR10_LancerHndgrd_MLOCK, *, 2500, 1000
+TF_AR10_NoveskeHndgrd_Short_RIS, *, 2500, 1000
+TF_AR10_NoveskeHndgrd_Long_RIS, *, 2500, 1000
+TF_AR10_URXHndgrd_MLOCK, *, 2500, 1000
+TF_M4_ADARWoodHndgrd, *, 2500, 1000
+TF_M4_DD12Hndgrd_RIS_FDE, *, 2500, 1000
+TF_M4_DD9Hndgrd_RIS_FDE, *, 2500, 1000
+TF_M4_DDFSPHndgrd_RIS_FDE, *, 2500, 1000
+TF_M4_SMR13Hndgrd_MLOCK_FDE, *, 2500, 1000
+TF_M4_SMR9Hndgrd_MLOCK_FDE, *, 2500, 1000
+TF_M4_KACHndgrd_RIS, *, 2500, 1000
+TF_M16_KACHndgrd_RIS, *, 2500, 1000
+TF_PKM_ZenitB50Hndgrd_RIS, *, 2500, 1000
+TF_PKP_CNCC46Hndgrd_RIS, *, 2500, 1000
+
+<Category> Tactical Flava Muzzles
+TF_SCAR_Suppressor_Black, *, 2500, 1000
+TF_MakarovPB_Suppressor, *, 2500, 1000
+TF_OTs_14_Groza_Suppressor, *, 2500, 1000
+TF_OTs_14_Groza_Barrel_Grip, *, 2500, 1000
+TF_MAR10_Suppressor, *, 2500, 1000
+TF_M4_SOCOMSuppressor, *, 2500, 1000
+TF_AK_PBS1Suppressor, *, 2500, 1000
+TF_AEK999_Suppressor, *, 2500, 1000
+TF_PKM_6ch43Compensator, *, 2500, 1000
+TF_PKM_6ch63Compensator, *, 2500, 1000
+TF_PKM_6ch76Compensator, *, 2500, 1000
+TF_AK_6p20Compensator, *, 2500, 1000
+TF_AK_ZenitDTK1Compensator, *, 2500, 1000
+TF_PKM_SAICompensator, *, 2500, 1000
+TF_AK_Rotor43Suppressor, *, 2500, 1000
+
+<Category> Tactical Flava Grenades
+TF_EMPGrenade, *, 12000, 6000
+TF_PhosphorusGrenade, *, 12000, 6000
+TF_TeargasGrenade, *, 12000, 6000
+TF_ChemicalGrenade, *, 12000, 6000
+
+<Category> Tactical Flava Helmets
+TF_6B47Helmet, *, 12000, 6000
+TF_6B47HelmetCover_EMR, *, 12000, 6000
+TF_6B47HelmetCover_Syrian, *, 12000, 6000
+TF_LSHZHelmet_OD, *, 12000, 6000
+TF_MICH2000Helmet, *, 12000, 6000
+TF_MICH2000Helmet_Khaku, *, 12000, 6000
+TF_MICH2000Helmet_Black, *, 12000, 6000
+TF_MICH2000HelmetCover_Woodland, *, 12000, 6000
+TF_WeldingMask_Tagilla, *, 12000, 6000
+TF_WeldingMask, *, 12000, 6000
+TF_Maska1Helmet, *, 12000, 6000
+TF_Maska1Visor, *, 12000, 6000
+TF_Maska1SchVisor, *, 12000, 6000
+
+<Category> Tactical Flava Vests
+TF_PlateCarrierVest_EMR, *, 12000, 6000
+TF_PlateCarrierVest_Coyote, *, 12000, 6000
+TF_6sh112_EMR, *, 12000, 6000
+TF_6sh112_Syrian, *, 12000, 6000
+TF_6B23_112Vest_GFlora_Syrian, *, 12000, 6000
+TF_6B23_112Vest_EMR_Syrian, *, 12000, 6000
+TF_6B23_112Vest_GFlora, *, 12000, 6000
+TF_6B23_112Vest_EMR, *, 12000, 6000
+TF_6B23Vest_GFlora, *, 12000, 6000
+TF_6B23Vest_EMR, *, 12000, 6000
+TF_6B43Vest_EMR, *, 12000, 6000
+TF_6B43Vest_Syrian, *, 12000, 6000
+TF_6B43Vest_6sh112_EMR, *, 12000, 6000
+TF_6B43Vest_6sh112_Syrian, *, 12000, 6000
+TF_6B43Vest_6sh112_EMR_Syrian, *, 12000, 6000
+TF_6B43Vest_6sh112_Syrian_EMR, *, 12000, 6000
+TF_IMTVVest, *, 12000, 6000
+TF_IMTVVest_Khaki, *, 12000, 6000
+TF_AVSVest_Coyote, *, 12000, 6000
+TF_AVSVest_Tagilla, *, 12000, 6000
+TF_JPCVest_MC, *, 12000, 6000
+TF_JPCVest_Coyote, *, 12000, 6000
+TF_LVMBAVVest_KH, *, 12000, 6000
+
+<Category> Tactical Flava Pouches
+TF_PlateCarrierPouches_EMR, *, 12000, 6000
+TF_PlateCarrierPouches_Coyote, *, 12000, 6000
+TF_PlateCarrierHolster_EMR, *, 12000, 6000
+TF_PlateCarrierHolster_Coyote, *, 12000, 6000
+TF_6B43MagPouch, *, 12000, 6000
+TF_6B43GrenPouch, *, 12000, 6000
+TF_6B43MagPouch_Syrian, *, 12000, 6000
+TF_6B43GrenPouch_Syrian, *, 12000, 6000
+TF_DumpMagPouch, *, 12000, 6000
+TF_DumpMagPouch_Khaki, *, 12000, 6000
+TF_3GrenPouch, *, 12000, 6000
+TF_3GrenPouch_Khaki, *, 12000, 6000
+TF_2GrenPouch, *, 12000, 6000
+TF_2GrenPouch_Khaki, *, 12000, 6000
+TF_LMGPouch, *, 12000, 6000
+TF_LMGPouch_Khaki, *, 12000, 6000
+TF_LMG_M4Pouch, *, 12000, 6000
+TF_LMG_M4Pouch_Khaki, *, 12000, 6000
+TF_Mag2Pouch, *, 12000, 6000
+TF_Mag2Pouch_Khaki, *, 12000, 6000
+TF_Mag3Pouch, *, 12000, 6000
+TF_Mag3Pouch_Khaki, *, 12000, 6000
+TF_MedPouch1, *, 12000, 6000
+TF_MedPouch1_Khaki, *, 12000, 6000
+TF_MedPouch2, *, 12000, 6000
+TF_MedPouch2_Coyote, *, 12000, 6000
+TF_MedPouch3, *, 12000, 6000
+TF_MedPouch3_Khaki, *, 12000, 6000
+TF_AVSMag3Pouch_Coyote, *, 12000, 6000
+TF_AVSMag3Pouch_Khaki, *, 12000, 6000
+TF_FastMag3Pouch_Khaki, *, 12000, 6000
+TF_FastMag3Pouch_Coyote, *, 12000, 6000
+TF_AFAKMedPouch_Khaki, *, 12000, 6000
+TF_AFAKMedPouch_Coyote, *, 12000, 6000
+TF_AVSGren2Pouch_Coyote, *, 12000, 6000
+TF_AVSGren2Pouch_Khaki, *, 12000, 6000
+TF_LargeUtilityPouch_Khaki, *, 12000, 6000
+TF_LargeUtilityPouch_Coyote, *, 12000, 6000
+TF_JPCMag3Pouch_Coyote, *, 12000, 6000
+
+<Category> Tactical Flava Bags, *, 12000, 6000
+TF_CamelBakBag_Black, *, 12000, 6000
+TF_CamelBakBag_Brown, *, 12000, 6000
+TF_CamelBakBag_EMR, *, 12000, 6000
+TF_CamelBakBag_OD, *, 12000, 6000
+TF_CamelBakBag_Tan, *, 12000, 6000
+TF_AVSBag_Coyote, *, 12000, 6000
+TF_AVSBag_Khaki, *, 12000, 6000
+TF_MAPBag_Khaki, *, 12000, 6000
+TF_MAPBag_Coyote, *, 12000, 6000
+
+<Category> Tactical Flava Masks
+TF_PMK4GasMask, *, 12000, 6000
+TF_PMK4GasMask_OD, *, 12000, 6000
+TF_6sh122Pants_Spring, *, 12000, 6000
+TF_6sh122Pants_Autumn, *, 12000, 6000
+TF_6sh122Pants_Syrian, *, 12000, 6000
+TF_6sh122Pants_Syrian_EMR, *, 12000, 6000
+TF_6sh122Pants_Winter, *, 12000, 6000
+TF_CargoPantsShort_Black, *, 12000, 6000
+TF_CargoPantsShort_MARPAT, *, 12000, 6000
+TF_G3CombatPants_RG, *, 12000, 6000
+TF_G3CombatPants_MC, *, 12000, 6000
+TF_G3CombatPants_WD, *, 12000, 6000
+TF_6sh122Jacket_Spring, *, 12000, 6000
+TF_6sh122Jacket_Autumn, *, 12000, 6000
+TF_6sh122Jacket_Syrian, *, 12000, 6000
+TF_6sh122Jacket_Syrian_EMR, *, 12000, 6000
+TF_6sh122Jacket_Winter, *, 12000, 6000
+TF_G3CombatShirt_RG, *, 12000, 6000
+TF_G3CombatShirt_MC, *, 12000, 6000
+TF_G3CombatShirt_WD, *, 12000, 6000
+TF_FannyPack_Coyote, *, 12000, 6000
+
+<Category> Tactical Flava Guns
+TF_AN94, *, 45000, 10000
+TF_AN94M, *, 45000, 10000
+TF_Anzio20, *, 45000, 10000
+TF_FiveSeven, *, 45000, 10000
+TF_M14_DMR, *, 45000, 10000
+TF_M14_EBR, *, 45000, 10000
+TF_M14_STD, *, 45000, 10000
+TF_M1A_Black, *, 45000, 10000
+TF_M1A_OD, *, 45000, 10000
+TF_M1A_Tan, *, 45000, 10000
+TF_MAR10, *, 45000, 10000
+TF_SCAR_20_FDE, *, 45000, 10000
+TF_SCAR_20_Black, *, 45000, 10000
+TF_SCAR_20_Shd, *, 45000, 10000
+TF_SCAR_L_FDE, *, 45000, 10000
+TF_SCAR_L_Black, *, 45000, 10000
+TF_SCAR_L_CQC_FDE, *, 45000, 10000
+TF_SCAR_L_CQC_Black, *, 45000, 10000
+TF_SCAR_H_FDE, *, 45000, 10000
+TF_SCAR_H_Black, *, 45000, 10000
+TF_SCAR_H_CQC_FDE, *, 45000, 10000
+TF_SCAR_H_CQC_Black, *, 45000, 10000
+TF_OTs_12_Tiss, *, 45000, 10000
+TF_OTs_14_Groza, *, 45000, 10000
+TF_MakarovPB, *, 45000, 10000
+TF_M79, *, 45000, 10000
+TF_M79_AOR1, *, 45000, 10000
+TF_AK101, *, 45000, 10000
+TF_AK102, *, 45000, 10000
+TF_AK103, *, 45000, 10000
+TF_AK104, *, 45000, 10000
+TF_AK105, *, 45000, 10000
+TF_AK105_Bullpup, *, 45000, 10000
+TF_AK74M, *, 45000, 10000
+TF_AKM, *, 45000, 10000
+TF_AKMN, *, 45000, 10000
+TF_VPO136, *, 45000, 10000
+TF_AKS74U, *, 45000, 10000
+TF_M4A1, *, 45000, 10000
+TF_ADAR2_15, *, 45000, 10000
+TF_M4A1_CQBR, *, 45000, 10000
+TF_MK47_CQBR, *, 45000, 10000
+TF_MK47, *, 45000, 10000
+TF_MP443, *, 45000, 10000
+TF_VPO190, *, 45000, 10000
+TF_AEK999, *, 45000, 10000
+TF_M16A4, *, 45000, 10000
+TF_M240, *, 45000, 10000
+TF_M249, *, 45000, 10000
+TF_PKM, *, 45000, 10000
+TF_PKP, *, 45000, 10000
+TF_SVCh308, *, 45000, 10000
+TF_SVCh, *, 45000, 10000
+TF_SR25, *, 45000, 10000
+
+<Category> Tactical Flava Ammo
+TF_Ammo_20mm, *, 2500, 1000
+TF_Ammo_20mm_HE, *, 2500, 1000
+TF_Ammo_57, *, 2500, 1000
+TF_Ammo_338LM, *, 2500, 1000
+
+<Category> Tactical Flava Mags
+TF_Mag_OTs_14_Groza_20Rnd, *, 5000, 1500
+TF_Mag_SCAR_H_20Rnd_Black, *, 5000, 1500
+TF_Mag_SCAR_H_20Rnd_FDE, *, 5000, 1500
+TF_Mag_SCAR_H_20Rnd_Shd, *, 5000, 1500
+TF_Mag_SCAR_H_25Rnd_Black, *, 5000, 1500
+TF_Mag_SCAR_H_25Rnd_FDE, *, 5000, 1500
+TF_Mag_SCAR_H_30Rnd_Black, *, 5000, 1500
+TF_Mag_SCAR_H_30Rnd_FDE, *, 5000, 1500
+TF_Mag_SCAR_H_PMAG25Rnd_Black, *, 5000, 1500
+TF_Mag_SCAR_H_Drum50Rnd, *, 5000, 1500
+TF_Mag_FAL_Drum50Rnd_Black, *, 5000, 1500
+TF_Mag_MAR10_10Rnd, *, 5000, 1500
+TF_Mag_Anzio20_3Rnd, *, 5000, 1500
+TF_Mag_M14_20Rnd, *, 5000, 1500
+TF_Mag_M14_10Rnd, *, 5000, 1500
+TF_Mag_FiveSeven_20Rnd, *, 5000, 1500
+TF_Mag_AK74_60Rnd, *, 5000, 1500
+TF_Mag_AK74_45Rnd, *, 5000, 1500
+TF_Mag_AKM_Plastic30Rnd, *, 5000, 1500
+TF_Mag_AKM_30Rnd, *, 5000, 1500
+TF_Mag_AKM_10Rnd, *, 5000, 1500
+TF_Mag_AKM_PMAG30Rnd, *, 5000, 1500
+TF_Mag_AKM_PMAG30Rnd_Banana, *, 5000, 1500
+TF_Mag_M4_STANAG_30Rnd, *, 5000, 1500
+TF_Mag_M4_PMAG10Rnd, *, 5000, 1500
+TF_Mag_M4_PMAG20Rnd, *, 5000, 1500
+TF_Mag_M4_PMAG30Rnd, *, 5000, 1500
+TF_Mag_M4_PMAG30Rnd_FDE, *, 5000, 1500
+TF_Mag_M4_PMAG40Rnd, *, 5000, 1500
+TF_Mag_M4_PMAG40Rnd_FDE, *, 5000, 1500
+TF_Mag_MP443_18Rnd, *, 5000, 1500
+TF_Mag_VPO190_4Rnd, *, 5000, 1500
+TF_Mag_AK101_Plastic30Rnd, *, 5000, 1500
+TF_Mag_AK74_Bakelit30Rnd, *, 5000, 1500
+TF_Mag_AK74_Plum30Rnd, *, 5000, 1500
+TF_Mag_AK74_Plastic30Rnd, *, 5000, 1500
+TF_Mag_AKM_Bakelit40Rnd, *, 5000, 1500
+TF_Mag_AKM_Steel40Rnd, *, 5000, 1500
+TF_Mag_M240_50Rnd, *, 5000, 1500
+TF_Mag_M249_200Rnd, *, 5000, 1500
+TF_Mag_PKM_100Rnd, *, 5000, 1500
+TF_Mag_SVCh308_10Rnd, *, 5000, 1500
+TF_Mag_SR25_20Rnd, *, 5000, 1500
+
+<Category> Tactical Flava
+TF_Atlas_Bipod, *, 5000, 1500
+TF_Harris_Bipod, *, 5000, 1500
+TF_M14_Adapter, *, 5000, 1500
+TF_RifleSling_Black, *, 5000, 1500
+TF_RifleSling_Brown, *, 5000, 1500
+TF_RifleSling_OD, *, 5000, 1500
+TF_NVGoggles_AVS9, *, 10000, 1500
+TF_NVGoggles_PVS14, *, 10000, 1500
+TF_NVGoggles_PVS15, *, 10000, 1500
+TF_NVGoggles_PNV10T, *, 10000, 1500
+TF_Foil_hat, *, 5000, 1500
+TF_6B43PelvisArmor, *, 5000, 1500
+TF_6B43PelvisArmor_Syrian, *, 5000, 1500
+TF_AK_6kh5Bayonet, *, 5000, 1500
+TF_6kh5KnifeSheath, *, 5000, 1500
+TF_AK_Tactica_Tula10000Receiver, *, 5000, 1500
+TF_AK_B33Receiver, *, 5000, 1500
+
 <Category> SNAFU Weapons
 		SNAFUAPS,                          W,		500,			200
 		SN_Springfield,                    W,		1000,			500
@@ -753,7 +1115,6 @@
 		SNAFUVSSK,		                   W,		220000,			75000
 		SNAFUAlligator,                    W,		225000,			80000
 
-		
 		<Category> SNAFU Magazines
 		SNAFUAPS_20rdMag,                   *,		200,			50
 		SN_Springfield_Mag,                 *,		275,			75
@@ -874,8 +1235,7 @@
 		SNAFU_AS50_Mag,                     *,		40000,			13250
 		SNAFUASh12_20rdMag,                 *,		45000,			15000
 		SNAFUAlligator_5rdMag,              *,		45000,			15000		
-
-		
+	
 	<Category> SNAFU Scopes
 		GCGN_M84_Optic,						*,		1500,			600
 		SNAFU_HuntingOptic,                 *,		1500,			600
@@ -962,7 +1322,6 @@
 		SNAFU_AK_HG,                        *,		500,			100
 		SNAFU_M249HG,                       *,		500,			100
 		
-		
 	<Category> SNAFU Stocks
 		SA58_Stock,							*,		250,			100
 		SNAFU_AK_AR_Stock,                  *,		250,			100
@@ -983,7 +1342,6 @@
 		SNAFU_M200B_BK,                     *,		250,			100
 		SNAFU_WSR3Stock,                    *,		250,			100
 		SNAFUDSASA58_Stock,                 *,		250,			100
-		
 				
 	<Category> SNAFU Suppressors
 		GCGN_M1Garand_Supp,								*,		20000,			500
@@ -1015,9 +1373,6 @@
 		SNAFU_AK19Muzzel,                               *,		2000,			500
 		SNAFU_MK47Muzzel,                               *,		2000,			500
 		
-		
-
-		
 	<Category> SNAFU Bipods
 		SNAFU_Bipod,						*,		750,			250
 		SNAFU_PKPBIPOD,                     *,		2000,			250
@@ -1027,8 +1382,6 @@
 		SNAFU_VSSKbipod,                    *,		2500,			250
 		SNAFU_M249Bipod,                    *,		1000,			250
 		SNAFU_M200B_BK,                     *,		2500,			250
-		
-		
 		
 	<Category> SNAFU Attachments
 		SNAFU_SKS_Bayonet,						*,		500,			250
@@ -1045,7 +1398,6 @@
 		SNAFUUniversalLight,                    *,		500,			250
 		SNAFU_PistolGripColtA2,                 *,		500,			250
 		SNAFU_PEQ1_Laser,                       *,		500,			250
-
 
 	<Category> SNAFU Ammo
 		GCGN_Ammo_3006,							*,		2000,			2000
@@ -1065,7 +1417,6 @@
 		GCGN_Ammo_50Cal,                        *,		600,			600
 		SNAFU_Ammo_127x55mmAP,                  *,		600,			600
 		
-		
 	<Category> SNAFU Grips
 		SA58_FGrip,							*,		300,			200
 		SNAFUAR15_AFG,                      *,		300,			200
@@ -1079,8 +1430,8 @@
 		SNAFU_FGCR_Grip,                    *,		300,			200
 		SNAFU_SR3Grip,                      *,		300,			200
 		SNAFU_M249Grip,         
-<Category> Mortys Weapons
 
+<Category> Mortys Weapons
 TTC_KAC, W, 20000, 7500
 TTC_MAS36, W, 20000, 7500
 TTC_Winchester1873, W, 20000, 7500
@@ -1242,7 +1593,6 @@ TTC_MPXMCXSPEAR_Bttstck, *, 300, 150
 
 
 <Category> Mortys Ammunition
-
 TTC_Ammo_8mm, 1, 20, 12
 TTC_AmmoBox_8mm_20Rnd, *, 400, 200
 TTC_AmmoBox_300blk_20rnd, *, 400, 200
@@ -1271,7 +1621,6 @@ TTC_Ammo_44Mag, *, 400, 200
 TTC_AmmoBox_44Mag, *, 400, 200
 
 <Category> Mortys Mags
-
 Mag_SG_30Rnd, M, 500, 250
 TTC_308Stanag, M, 200, 100
 TTC_300Stanag, M, 200, 100
@@ -1349,7 +1698,6 @@ TTC_MCX_Spear_Magazine_20rnd, M, 900, 100
 TTC_P320_17Rnd, M, 200, 100
 
 <Category> Mortys Supressors
-
 TTC_Universal_Suppressor_BLACK, *, 500, 200
 TTC_Universal_Suppressor_CAMO, *, 500, 200
 TTC_Honey_Suppressor, *, 500, 200
@@ -1373,7 +1721,6 @@ TTC_Universal_Suppressor_TAVOR_Tan, *, 500, 200
 TTC_MCX_Spear_Suppressor_Black, *, 500, 200
 
 <Category> Mortys Attachments
-
 TTC_DMR_Hndguard, *, 250, 125
 TTC_DMR_HndguardOD, *, 250, 125
 TTC_DMR_HndguardDesert, *, 250, 125
