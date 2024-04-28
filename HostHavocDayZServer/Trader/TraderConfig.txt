@@ -798,7 +798,7 @@ TF_LargeUtilityPouch_Khaki, *, 12000, 6000
 TF_LargeUtilityPouch_Coyote, *, 12000, 6000
 TF_JPCMag3Pouch_Coyote, *, 12000, 6000
 
-<Category> Tactical Flava Bags
+<Category> Tactical Flava Bags, *, 12000, 6000
 TF_CamelBakBag_Black, *, 12000, 6000
 TF_CamelBakBag_Brown, *, 12000, 6000
 TF_CamelBakBag_EMR, *, 12000, 6000
