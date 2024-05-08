@@ -5,8 +5,8 @@
 //														 //
 ///////////////////////////////////////////////////////////
 
-78901234567890123	// Admin No1
-78901234567890123	// Admin No2
-78901234567890123	// Admin No3
+76561197987495141	// Admin No1
+76561198240053012	// Admin No2
+
 
 <FileEnd>			// This has to be on the End of this File and is very importand!
