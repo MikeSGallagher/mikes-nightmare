@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "CanCraftKey": 0,
     "CanPickCarLocks": 0,
     "RaidTool": "Lockpick",
@@ -13,5 +13,6 @@
     "LifetimeMaintenanceEnabled": 1,
     "MaxLifetime": 1296000,
     "MaxLifetimeWithoutAnyPlayerInteraction": 432000,
-    "CanPlayersResetKey": 1
+    "CanPlayersResetKey": 1,
+    "HideInventoryWhenDoorsClosed": 0
 }
