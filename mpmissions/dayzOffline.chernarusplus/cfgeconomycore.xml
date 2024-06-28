@@ -87,4 +87,14 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
   <file name="TacticalFlava_types.xml" type="types" />
   <file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
 </ce>
+<ce folder="mod_types/RagCabin">
+  <file name="rag_hunting_cabin_types.xml" type="types" />
+</ce>
+<ce folder="mod_types/RevGuns">
+  <file name="RevGuns_types.xml" type="types" />
+  <file name="RevGuns_spawnabletypes.xml" type="spawnabletypes" />
+</ce>
+<ce folder="mod_types/AWS">
+  <file name="aws_types.xml" type="types" />
+</ce>
 </economycore>

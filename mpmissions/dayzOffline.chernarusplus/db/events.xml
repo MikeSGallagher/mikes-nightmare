@@ -21,9 +21,9 @@
         </children>
     </event>
     <event name="AnimalBear">
-        <nominal>0</nominal>
-        <min>2</min>
-        <max>2</max>
+        <nominal>35</nominal>
+        <min>20</min>
+        <max>30</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -38,9 +38,9 @@
         </children>
     </event>
     <event name="AnimalCow">
-        <nominal>7</nominal>
-        <min>2</min>
-        <max>3</max>
+        <nominal>70</nominal>
+        <min>20</min>
+        <max>55</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -60,9 +60,9 @@
         </children>
     </event>
     <event name="AnimalDeer">
-        <nominal>9</nominal>
-        <min>2</min>
-        <max>4</max>
+        <nominal>70</nominal>
+        <min>25</min>
+        <max>50</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -78,9 +78,9 @@
         </children>
     </event>
     <event name="AnimalGoat">
-        <nominal>8</nominal>
-        <min>1</min>
-        <max>3</max>
+        <nominal>25</nominal>
+        <min>15</min>
+        <max>20</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -98,9 +98,9 @@
         </children>
     </event>
     <event name="AnimalPig">
-        <nominal>6</nominal>
-        <min>1</min>
-        <max>2</max>
+        <nominal>60</nominal>
+        <min>25</min>
+        <max>45</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -115,9 +115,9 @@
         </children>
     </event>
     <event name="AnimalRoeDeer">
-        <nominal>10</nominal>
-        <min>2</min>
-        <max>3</max>
+        <nominal>70</nominal>
+        <min>25</min>
+        <max>40</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -133,9 +133,9 @@
         </children>
     </event>
     <event name="AnimalSheep">
-        <nominal>5</nominal>
-        <min>4</min>
-        <max>5</max>
+        <nominal>70</nominal>
+        <min>30</min>
+        <max>50</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>

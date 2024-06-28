@@ -595,9 +595,131 @@
 		Bear_Dark,				*,		5,		1
 		Bear_Pink,				*,		5,		1
 		Bear_White,				*,		5,		1
+		
+	<Category> BBPItemPack
+		BBP_Wall_Kit, *, 200, 10
+		BBP_Door_Kit, *, 200, 10
+		BBP_Floor_Kit, *, 200, 10
+		BBP_Roof_Hatch_Kit, *, 200, 10
+		BBP_Floor_Hatch_Kit, *, 200, 10
+		BBP_Foundation_Kit, *, 200, 10
+		BBP_Gate_Kit, *, 200, 10
+		BBP_Half_Wall_Kit, *, 200, 10
+		BBP_Pillar_Kit, *, 200, 10
+		BBP_Ramp_Kit, *, 200, 10
+		BBP_Roof_Kit, *, 200, 10
+		BBP_Hanger_Roof_Kit, *, 200, 10
+		BBP_Slope_Roof_Kit, *, 200, 10
+		BBP_Slope_Wall_Kit, *, 200, 10
+		BBP_Stair_Kit, *, 200, 10
+		BBP_Triangle_Floor_Kit, *, 200, 10
+		BBP_Triangle_Roof_Kit, *, 200, 10
+		BBP_Window_Kit, *, 200, 10
+		// BBP_BuildPermit, *, 200, 100
+		BBP_Blueprint, *, 200, 100
+		BBP_Workbench_Kit, *, 300, 150
+		BBP_Step_Ladder_Kit, *, 200, 100
+		BBP_TapeMeasure, *, 200, 100
+		BBP_Concrete_Brick_Pile, *, 800, 400
+		BBP_Cement, *, 2000, 1000
+		BBP_Mortar_Mix, *, 200, 100
+		BBP_Cement_Mixer_Kit, *, 10000, 5000
 
 		
 <Trader> Weapon Trader
+
+	<Category> Rev_Guns
+		Rev_WA2000,	      		 	 	 W,		1500,		400
+		Rev_ARX160,	 					 W,		1500,		400
+		Rev_Tac21,						 W,		1500,		400
+		Rev_HoneyBadger300BO_Black,		 W,		1500,		500
+		Rev_M200,		 				 W,		1500,		100
+		Rev_M200_Black,	 				 W,		900,		100
+		Rev_R700,	     				 W,		1500,		400
+		Rev_AK15,	     			     W,		1500,		400
+		Rev_AKU15,						 W,		1500,		400
+		Rev_AK12,	 					 W,		1500,		500
+		Rev_AKU12,		 				 W,		1500,		100
+		Rev_AK19,	    				 W,		900,		100
+		Rev_AKU19,	    				 W,		1500,		400
+		Rev_RPK16_762,	    			 W,		1500,		400
+		Rev_RPK16,		  				 W,		1500,		400
+		Rev_RPK16_556,					 W,		1500,		500
+		Rev_AR15,						 W,		1500,		100
+		Rev_ACR_Tan,					 W,		900,		100
+		Rev_M110_Black, 				 W,		1500,		500
+		Rev_M134,						 W,		30000,		100
+		Rev_Beowulf, 					 W,		900,		100
+		Rev_SRSA2,						 W,		1500,		400
+		Rev_Spas12,						 W,		1500,		400
+		Rev_SR25_Tan,					 W,		1500,		400
+		Rev_ACR17,						 W,		1500,		500
+		Rev_MG3,						 W,		5000,		100
+		Rev_FALTactical,				 W,		900,		100
+		Rev_M1Garand,	    			 W,		1500,		400
+		Rev_HT76,	    				 W,		1500,		400
+		Rev_HK417,						 W,		1500,		400
+		JebsGuns_GoldenFang,			 W,		1500,		400
+		JebsGuns_M1A_Sneaks,			 W,		1500,		400
+		JebsGuns_MBR_Black,				 W,		1500,		500
+		JebsGuns_L85A2_Black,			 W,		1500,		100
+		JebsGuns_KrissVector_Black,		 W,		900,		100
+		JebsGuns_VSSK,	    			 W,		1500,		400
+		Rev_M96,	    		     	 W,		1500,		400
+		JebsGuns_MDRX_Tan,	    		 W,		1500,		400
+		Rev_CDX50,	    		     	 W,		1500,		400
+		Rev_M2010_Tan,	    		     W,		1500,		400
+		
+	<Category> REV_attachments
+		Rev_Tac21_Bttstck,					*,		150,	60
+		Rev_M200_Suppressor,   			    *,		150,	60
+		Rev_R700_Suppressor,		        *,		250,	100
+		Rev_AK_Bttstck,						*,		300,	120
+		JebsGuns_KrissVector_Suppressor,    *,		500,	200
+	
+	<Category> Rev_Guns/Ammo
+		Ammo_300WinMagnum,		              1,		25,		-1
+		Rev_Ammo_300BO,		                  1,		25,		-1
+		Rev_Ammo_408,		                  1,		1,		-1
+		Rev_Ammo_338,		 				  1,		1,		-1
+		Rev_Ammo_68SPC,		     			  1,		3,		1
+		Rev_Ammo_50BW,		  				  1,		4,		2
+		JebsGuns_Ammo_45_70,		 		  1,		4,		2
+		Rev_Mag_WA2000_5rnd,			      M,		30,		15
+		Rev_Mag_ARX160_30rnd,				  M,		40,		20
+		Rev_Mag_Tac21_5rnd,					  M,		40,		20
+		Rev_Mag_HoneyBadger_30rnd,			  M,		40,		20
+		Rev_Mag_HoneyBadger_50rnd,			  M,		40,		20
+		Rev_Mag_HoneyBadger_100rnd,			  M,		40,		20
+		Rev_Mag_M200_7rnd,				  	  M,		60,		30
+		Rev_Mag_R700_7rnd,				      M,		100,	50
+		Rev_Mag_AK15_30rnd,					  M,		150,	75
+		Rev_Mag_AK12_30rnd,				      M,		40,		20
+		Rev_Mag_AK19_30rnd,				      M,		40,		20
+		Rev_Mag_RPK16_75rnd_762,			  M,		40,		20
+		Rev_Mag_RPK16_96rnd,				  M,		60,		30
+		Rev_Mag_RPK16_96rnd_556,			  M,		100,	50
+		Rev_Mag_ACR_30rnd,					  M,		150,	75
+		Rev_Mag_M110_10rnd,				      M,		40,		20
+		Rev_Mag_M110_20rnd,				      M,		60,		30
+		Rev_Mag_M134_250rnd,				  M,		100,	50
+		Rev_Mag_Beowulf_10rnd,				  M,		150,	75
+		Rev_Mag_SRSA2_10rnd,				  M,		40,		20
+		Rev_Mag_SR25_10rnd,				  	  M,		60,		30
+		Rev_Mag_SR25_20rnd,				  	  M,		100,	50
+		Rev_Mag_ACR17_30rnd,				  M,		150,	75
+		Rev_Mag_MG3_75rnd,				      M,		100,	50
+		Rev_Mag_HT76_30Rnd,					  M,		150,	75
+		Rev_Mag_HK417_20rnd,				  M,		100,	50
+		JebsGuns_Mag_M1A_20rnd_45_70,		  M,		150,	75
+		JebsGuns_Mag_L85A2_30rnd,			  M,		100,	50
+		JebsGuns_Mag_KrissVector_30rnd,		  M,		150,	75
+		JebsGuns_Mag_VSSK_5rnd,				  M,		100,	50
+		Rev_Mag_M96_5rnd,			     	  M,		100,	50
+		JebsGuns_Mag_MDRX_30rnd,			  M,		100,	50
+		JebsGuns_Mag_MDRX_50rnd,			  M,		100,	50
+		Rev_Mag_CDX50_5rnd,			     	  M,		100,	50
+		Rev_Mag_M2010_10rnd,			      M,		100,	50
 
 <Category> Tactical Flava Optics
 TF_ElcanSpecterDROptic_FDE, *, 2500, 1000
@@ -1873,6 +1995,57 @@ TTC_Elcan_AK, *, 5000, 2000
 		
 		
 <Trader> Weapon Supplies
+
+<Category> Advanced Scopes
+	AD_B13Mount,           *,      900,    350
+	AD_MosinMount,           *,      900,    350
+	AD_ACOG,           *,      900,    350
+	AD_ACOG_MosinMount,           *,      900,    350
+	AD_ACOG_B13,           *,      900,    350
+	AD_ACOG_RMR,           *,      900,    350
+	AD_ACOG_RMR_MosinMount,           *,      900,    350
+	AD_ACOG_RMR_B13,           *,      900,    350
+	AD_DHF5,           *,      900,    350
+	AD_DHF5_MosinMount,           *,      900,    350
+	AD_DHF5_B13,           *,      900,    350
+	AD_MRS,           *,      900,    350
+	AD_MRS_MosinMount,           *,      900,    350
+	AD_MRS_B13,           *,      900,    350
+	AD_NFATACR,           *,      900,    350
+	AD_NFATACR_MosinMount,           *,      900,    350
+	AD_NFATACR_B13,           *,      900,    350
+	AD_NFATACR_1_8,           *,      900,    350
+	AD_NFATACR_1_8_MosinMount,           *,      900,    350
+	AD_NFATACR_1_8_B13,           *,      900,    350
+	AD_OKP7,           *,      900,    350
+	AD_OKP7_MosinMount,           *,      900,    350
+	AD_OKP7_B13,           *,      900,    350
+	AD_Pilad,           *,      900,    350
+	AD_Pilad_MosinMount,           *,      900,    350
+	AD_Pilad_B13,           *,      900,    350
+	AD_PVS4,           *,      900,    350
+	AD_PVS4_MosinMount,           *,      900,    350
+	AD_PVS4_B13,           *,      900,    350
+	AD_RMR,           *,      900,    350
+	AD_RMR_LM,           *,      900,    350
+	AD_RMR_LM_MosinMount,           *,      900,    350
+	AD_RMR_LM_B13,           *,      900,    350
+	AD_RMR_TM,           *,      900,    350
+	AD_RMR_TM_MosinMount,           *,      900,    350
+	AD_RMR_TM_B13,           *,      900,    350
+	AD_SpecterDR,           *,      900,    350
+	AD_SpecterDR_MosinMount,           *,      900,    350
+	AD_SpecterDR_B13,           *,      900,    350
+	AD_XPS34_HHS,           *,      900,    350
+	AD_XPS34_HHS_MosinMount,           *,      900,    350
+	AD_XPS34_HHS_B13,           *,      900,    350
+	AD_XPS34,           *,      900,    350
+	AD_XPS34_MosinMount,           *,      900,    350
+	AD_XPS34_B13,           *,      900,    350
+	AD_LeupoldMk4,           *,      900,    350
+	AD_LeupoldMk4_MosinMount,           *,      900,    350
+	AD_LeupoldMk4_B13,           *,      900,    350
+	
 	<Category> Ammunition
 		Ammo_380,				1,		1,		-1
 		Ammo_9x19,				1,		1,		-1
