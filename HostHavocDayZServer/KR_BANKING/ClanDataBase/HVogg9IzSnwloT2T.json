@@ -1,0 +1,26 @@
+{
+    "m_ClanID": "HVogg9IzSnwloT2T",
+    "m_OwnersPlainID": "76561197987495141",
+    "m_ClanName": "SmashFlash",
+    "m_Prefix": "SFC",
+    "m_BankAmount": 1500000,
+    "m_Members": [
+        {
+            "m_plainID": "76561197987495141",
+            "m_playername": "SmashFlash",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        }
+    ],
+    "m_ClanLogs": [
+        "SmashFlash deposited: 250000",
+        "SmashFlash deposited: 250000",
+        "SmashFlash deposited: 250000",
+        "SmashFlash deposited: 750000"
+    ]
+}

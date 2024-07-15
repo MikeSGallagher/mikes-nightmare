@@ -1,0 +1,31 @@
+2024-07-09 @ 00-27-50:  [InitializeContainer] Winds: Vector <-2.152019, 0.000000, -0.116685>, Speed 2.15518mps, Strength 0.1
+2024-07-09 @ 00-27-50:  [InitializeContainer] Parachute created on @ <9440.462891, 164.832520, 2195.329590>
+2024-07-09 @ 00-28-23:  [AirdropContainerFall] Airdrop Container Touchdown @ <9440.462891, 32.231735, 2195.329590>
+2024-07-09 @ 00-28-23:  [ADU_RemoveParachute] Parachute removed.
+2024-07-09 @ 00-28-23:  [ADU_RepositionContainer] Container repositioned.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+2024-07-09 @ 00-28-23:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [1] FNX45 @ <9441.514648, 29.073465, 2192.868164> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [2] Mag_STANAG_30Rnd @ <9442.412109, 29.339306, 2194.178711> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [3] FNX45 @ <9438.268555, 29.216511, 2194.263916> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Spawn failed for item [4] 'Mossin9130', does not exist in DayZ!
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [5] Izh18 @ <9438.997070, 29.550173, 2195.982910> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [6] WaterBottle @ <9441.940430, 29.552624, 2195.451416> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [7] Izh18 @ <9439.093750, 29.491322, 2195.637939> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [8] AmmoBox_762x39_20Rnd @ <9442.408203, 29.533487, 2195.258545> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [9] Izh18 @ <9440.834961, 29.230406, 2193.865967> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [10] FNX45 @ <9441.640625, 29.192951, 2193.508545> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [11] M4A1 @ <9441.076172, 29.816284, 2197.076172> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [12] AmmoBox_762x54_20Rnd @ <9439.339844, 29.513292, 2195.714355> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Spawn failed for item [13] 'Mossin9130', does not exist in DayZ!
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [14] BakedBeansCan @ <9441.658203, 29.245729, 2193.798584> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [15] WaterBottle @ <9440.437500, 29.241468, 2194.000977> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [16] Vodka @ <9439.002930, 29.420198, 2195.259521> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [17] PowderedMilk @ <9440.172852, 29.970247, 2198.077393> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [18] BakedBeansCan @ <9438.505859, 29.673439, 2196.758545> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [19] FNX45 @ <9442.226563, 29.632256, 2195.840820> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  [ADU_SpawnItems] Loot Spawned [20] Rice @ <9440.972656, 29.216816, 2193.764893> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-28-23:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2024-07-09 @ 00-28-23:  [EOnSimulate] Airdrop Container deactivated.
+2024-07-09 @ 01-27-51:  [~AirdropContainerBase] Log file closed.
+2024-07-09 @ 01-27-51:  [~AirdropContainerBase] Container Destroyed.

@@ -1,0 +1,16 @@
+2024-07-09 @ 04-31-29:  [AirdropPlane] Aircraft created on 2024-07-09 @ 04-31-29
+2024-07-09 @ 04-31-29:  [InitializeAircraft] Aircraft Initialized: Berezino @ 11464/8908 (true)
+2024-07-09 @ 04-31-47:  [EOnSpawnZombies] Spawn failed for zombie [1] 'ZmbM_JacketNormal_greenchecks', it does not exist in DayZ!
+2024-07-09 @ 04-32-05:  [EOnSpawnZombies] Zombie Spawned [2] ZmbF_ShortSkirt_yellow @ <11454.207031, 117.505005, 8902.611328> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-32-23:  [EOnSpawnZombies] Zombie Spawned [3] ZmbF_Clerk_Normal_Green @ <11447.853516, 126.176186, 8862.444336> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-32-42:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_Jacket_beige @ <11471.649414, 116.235382, 8905.146484> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-33-00:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_Jacket_grey @ <11492.573242, 112.382057, 8918.230469> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-33-18:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_ClerkFat_Khaki @ <11470.812500, 114.663971, 8914.394531> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-33-36:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_ParamedicNormal_Black @ <11447.962891, 118.243149, 8897.166016> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-33-54:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_CitizenBFat_Red @ <11466.324219, 113.198647, 8924.543945> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-34-11:  [EOnBeforeDrop] The Aircraft is 1 Km from Berezino, from the South/West (235°). @ <10233.500000, 369.957550, 8053.515625>
+2024-07-09 @ 04-34-12:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_Jacket_magenta @ <11430.712891, 111.918640, 8942.110352> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-34-29:  [EOnDrop] Drop spawned with 10 infected at <11390.521484, 305.259094, 8856.291992>.
+2024-07-09 @ 04-34-29:  [EOnDrop] Supplies have been dropped near Berezino.
+2024-07-09 @ 04-35-32:  [EOnBeforeDelete] Aircraft despawned @ <15360.848633, 152.000610, 11610.813477>
+2024-07-09 @ 04-35-32:  [~AirdropPlane] Aircraft destroyed.

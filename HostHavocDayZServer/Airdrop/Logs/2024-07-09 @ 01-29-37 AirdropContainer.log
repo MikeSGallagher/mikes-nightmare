@@ -1,0 +1,31 @@
+2024-07-09 @ 01-29-37:  [InitializeContainer] Winds: Vector <-14.845798, 0.000000, 10.574592>, Speed 18.2269mps, Strength 0.1
+2024-07-09 @ 01-29-37:  [InitializeContainer] Parachute created on @ <5797.321777, 462.609772, 7853.104980>
+2024-07-09 @ 01-30-12:  [AirdropContainerFall] Airdrop Container Touchdown @ <5796.895996, 322.101196, 7853.791016>
+2024-07-09 @ 01-30-12:  [ADU_RemoveParachute] Parachute removed.
+2024-07-09 @ 01-30-12:  [ADU_RepositionContainer] Container repositioned.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+2024-07-09 @ 01-30-12:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [1] Mosin_Bayonet @ <5795.249512, 319.374359, 7851.755371> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [2] AKM @ <5794.652832, 319.502350, 7853.905273> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [3] FNX45 @ <5795.577148, 319.368500, 7852.168457> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [4] TTSKOPants @ <5798.378418, 319.205505, 7853.894531> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [5] Mosin9130 @ <5795.475586, 319.331970, 7851.338379> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [6] Mag_STANAG_30Rnd @ <5795.269043, 319.442352, 7853.645020> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [7] LandMineTrap @ <5795.248535, 319.374146, 7851.750977> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [8] AmmoBox_762x54_20Rnd @ <5794.186523, 319.553955, 7854.348145> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [9] CombatBoots_Grey @ <5794.541992, 319.462006, 7852.237305> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Spawn failed for item [10] 'PlateCarrierComplete', does not exist in DayZ!
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [11] TacticalBaconCan @ <5799.341797, 319.070343, 7852.457520> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [12] LandMineTrap @ <5798.048340, 319.130829, 7851.672363> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [13] M4A1 @ <5794.048340, 319.534912, 7853.122070> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [14] Mosin_Bayonet @ <5794.318848, 319.497192, 7852.559082> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [15] Mosin_Bayonet @ <5796.854004, 319.205841, 7851.216797> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [16] MilitaryBoots_Redpunk @ <5798.731934, 319.208374, 7854.673340> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [17] MilitaryBoots_Redpunk @ <5794.266602, 319.544220, 7854.237305> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [18] AKM @ <5796.245117, 319.244141, 7850.952637> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [19] CombatBoots_Grey @ <5796.497070, 319.307495, 7852.523438> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  [ADU_SpawnItems] Loot Spawned [20] M4A1 @ <5798.161621, 319.241364, 7854.357422> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 01-30-12:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2024-07-09 @ 01-30-12:  [EOnSimulate] Airdrop Container deactivated.
+2024-07-09 @ 02-29-37:  [~AirdropContainerBase] Log file closed.
+2024-07-09 @ 02-29-37:  [~AirdropContainerBase] Container Destroyed.

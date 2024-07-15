@@ -1,0 +1,16 @@
+2024-07-09 @ 00-26-44:  [AirdropPlane] Aircraft created on 2024-07-09 @ 00-26-44
+2024-07-09 @ 00-26-44:  [InitializeAircraft] Aircraft Initialized: Elektrozavodsk @ 9371/2229 (true)
+2024-07-09 @ 00-26-51:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_Jacket_stripes @ <9335.148438, 41.565430, 2257.510010> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-26-58:  [EOnSpawnZombies] Zombie Spawned [2] ZmbF_JoggerSkinny_Red @ <9398.604492, 29.241037, 2195.347168> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-27-04:  [EOnSpawnZombies] Zombie Spawned [3] ZmbF_JournalistNormal_Green @ <9387.268555, 33.866169, 2217.306152> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-27-11:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_ParamedicNormal_Green @ <9363.244141, 43.669720, 2267.944824> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-27-17:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_SkaterYoung_Blue @ <9404.136719, 36.095089, 2229.698975> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-27-24:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_ClerkFat_Grey @ <9402.726563, 35.434086, 2226.015381> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-27-31:  [EOnSpawnZombies] Zombie Spawned [7] ZmbF_Clerk_Normal_Blue @ <9377.302734, 43.929256, 2271.553711> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-27-31:  [EOnBeforeDrop] The Aircraft is 1 Km from Elektrozavodsk, from the South/East (116°). @ <10720.856445, 152.000610, 1577.084351>
+2024-07-09 @ 00-27-37:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_CommercialPilotOld_Brown @ <9353.337891, 36.810905, 2228.280273> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-27-44:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_PatrolNormal_Flat @ <9396.337891, 38.401608, 2242.756836> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 00-27-50:  [EOnDrop] Drop spawned with 10 infected at <9440.462891, 164.832520, 2195.329590>.
+2024-07-09 @ 00-27-50:  [EOnDrop] Supplies have been dropped near Elektrozavodsk.
+2024-07-09 @ 00-30-06:  [EOnBeforeDelete] Aircraft despawned @ <-1.673220, 350.107178, 6754.572754>
+2024-07-09 @ 00-30-06:  [~AirdropPlane] Aircraft destroyed.

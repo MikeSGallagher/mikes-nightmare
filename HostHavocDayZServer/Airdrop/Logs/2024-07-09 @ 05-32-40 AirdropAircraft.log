@@ -1,0 +1,16 @@
+2024-07-09 @ 05-32-40:  [AirdropPlane] Aircraft created on 2024-07-09 @ 05-32-40
+2024-07-09 @ 05-32-40:  [InitializeAircraft] Aircraft Initialized: Elektrozavodsk @ 9371/2229 (true)
+2024-07-09 @ 05-32-58:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_Jacket_greenchecks @ <9342.949219, 33.935204, 2216.311035> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 05-33-16:  [EOnSpawnZombies] Spawn failed for zombie [2] 'ZmbM_JacketNormal_greenchecks', it does not exist in DayZ!
+2024-07-09 @ 05-33-34:  [EOnSpawnZombies] Spawn failed for zombie [3] 'ZmbM_JacketNormal_greenchecks', it does not exist in DayZ!
+2024-07-09 @ 05-33-52:  [EOnSpawnZombies] Zombie Spawned [4] ZmbF_ShortSkirt_green @ <9347.276367, 40.090431, 2246.479492> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 05-34-10:  [EOnSpawnZombies] Zombie Spawned [5] ZmbF_JournalistNormal_Green @ <9378.200195, 36.819523, 2231.249268> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 05-34-28:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_PrisonerSkinny @ <9356.601563, 34.889133, 2219.123535> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 05-34-46:  [EOnSpawnZombies] Zombie Spawned [7] ZmbF_ParamedicNormal_Red @ <9418.311523, 33.686371, 2216.963867> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 05-35-04:  [EOnSpawnZombies] Zombie Spawned [8] ZmbF_ShortSkirt_checks @ <9362.869141, 34.015701, 2215.595459> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 05-35-21:  [EOnBeforeDrop] The Aircraft is 1 Km from Elektrozavodsk, from the North (019°). @ <9867.144531, 299.236694, 3644.310059>
+2024-07-09 @ 05-35-22:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_ParamedicNormal_Red @ <9365.423828, 38.903248, 2240.627197> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 05-35-40:  [EOnDrop] Drop spawned with 10 infected at <9399.957031, 225.667160, 2303.661621>.
+2024-07-09 @ 05-35-40:  [EOnDrop] Supplies have been dropped near Elektrozavodsk.
+2024-07-09 @ 05-36-11:  [EOnBeforeDelete] Aircraft despawned @ <8596.978516, 152.000610, -0.611734>
+2024-07-09 @ 05-36-11:  [~AirdropPlane] Aircraft destroyed.

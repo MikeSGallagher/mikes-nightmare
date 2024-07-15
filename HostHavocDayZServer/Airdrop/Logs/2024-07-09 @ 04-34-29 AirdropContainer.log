@@ -1,0 +1,31 @@
+2024-07-09 @ 04-34-29:  [InitializeContainer] Winds: Vector <7.049567, 0.000000, -5.684495>, Speed 9.05593mps, Strength 0.1
+2024-07-09 @ 04-34-29:  [InitializeContainer] Parachute created on @ <11390.521484, 305.259094, 8856.291992>
+2024-07-09 @ 04-35-13:  [AirdropContainerFall] Airdrop Container Touchdown @ <11390.521484, 129.148346, 8856.291992>
+2024-07-09 @ 04-35-13:  [ADU_RemoveParachute] Parachute removed.
+2024-07-09 @ 04-35-13:  [ADU_RepositionContainer] Container repositioned.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+2024-07-09 @ 04-35-13:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [1] WaterBottle @ <11391.351563, 125.701317, 8858.943359> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [2] Mag_AKM_30Rnd @ <11392.704102, 126.508545, 8854.872070> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [3] Vodka @ <11391.748047, 126.388657, 8855.722656> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [4] M4A1 @ <11388.600586, 126.586899, 8855.673828> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [5] AmmoBox_762x39_20Rnd @ <11389.329102, 126.607246, 8855.342773> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [6] Rice @ <11391.228516, 126.555573, 8855.020508> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [7] Mag_AKM_30Rnd @ <11392.117188, 126.207520, 8856.544922> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [8] WaterBottle @ <11391.587891, 126.631027, 8854.518555> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [9] Mag_STANAG_30Rnd @ <11387.943359, 126.222084, 8857.707031> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [10] BakedBeansCan @ <11389.769531, 126.024696, 8858.063477> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [11] WaterBottle @ <11388.413086, 126.731392, 8854.984375> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [12] AmmoBox_762x54_20Rnd @ <11389.693359, 125.896240, 8858.602539> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [13] FNX45 @ <11391.666016, 125.760628, 8858.626953> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [14] AKM @ <11392.317383, 126.215904, 8856.439453> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [15] FNX45 @ <11389.421875, 126.784485, 8854.396484> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [16] Mag_STANAG_30Rnd @ <11391.880859, 125.653023, 8858.929688> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [17] FNX45 @ <11388.559570, 126.090263, 8858.091797> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [18] AmmoBox_762x54_20Rnd @ <11390.636719, 126.584206, 8855.055664> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [19] Mag_STANAG_30Rnd @ <11391.911133, 126.221176, 8856.538086> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  [ADU_SpawnItems] Loot Spawned [20] Izh18 @ <11388.661133, 126.389580, 8856.675781> ... Lifespan:  Set to 60 minutes.
+2024-07-09 @ 04-35-13:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2024-07-09 @ 04-35-13:  [EOnSimulate] Airdrop Container deactivated.
+2024-07-09 @ 05-34-30:  [~AirdropContainerBase] Log file closed.
+2024-07-09 @ 05-34-30:  [~AirdropContainerBase] Container Destroyed.

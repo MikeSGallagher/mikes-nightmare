@@ -1,0 +1,15 @@
+{
+    "M_DATA": [
+        {
+            "m_Name": "Discord",
+            "m_URL": "https://discord.com/api/webhooks/925551637735563294/vx6OLFirW-RhGPF9mCPc68J5Uvz7cLVYHwzrAC24CA-N3BgUasGLSvsxnlKTPAlQH9O8",
+            "m_deathKillLogs": 1,
+            "m_adminActivityLog": 1,
+            "m_admHitLog": 1,
+            "m_joinLeaveLog": 1,
+            "m_serverStatusLog": 1,
+            "m_serverStatsInterval": 60,
+            "m_simplifiedMessages": 1
+        }
+    ]
+}

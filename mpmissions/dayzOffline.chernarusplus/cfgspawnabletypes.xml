@@ -1276,6 +1276,17 @@
 			<item name="Mag_Vikhr_30Rnd" chance="0.15" />
 		</attachments>
 	</type>	
+	<type name="SV98">
+		<attachments chance="0.25">
+			<item name="M4_T3NRDSOptic" chance="0.30" />	
+			<item name="ReflexOptic" chance="0.30" />	
+			<item name="ACOGOptic" chance="0.25" />	
+			<item name="ACOGOptic_6x" chance="0.15" />
+		</attachments>
+		<attachments chance="0.45">
+			<item name="Mag_SV98_10Rnd" chance="1.0" />
+		</attachments>
+	</type>	
 	<type name="CZ527">
 		<attachments chance="0.10">
 			<item name="HuntingOptic" chance="1.00" />
@@ -2695,6 +2706,7 @@
 			<item name="Truck_01_Door_2_1_Orange" chance="0.50" />
 		</attachments>
 	</type>
+<!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
 			<item name="V3SWheel" chance="0.60" />
@@ -2839,4 +2851,5 @@
 			<item name="V3SDoors_CoDriver_Grey" chance="0.50" />
 		</attachments>
 	</type>
+-->
 </spawnabletypes>

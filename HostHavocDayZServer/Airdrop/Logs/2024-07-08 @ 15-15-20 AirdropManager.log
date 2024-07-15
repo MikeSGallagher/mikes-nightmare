@@ -1,0 +1,56 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2024-07-05 @ 15-15-23 AirdropManager.log (3)
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Exporting 14 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[2024-07-08 @ 22-24-24] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Skalisty Island <13452.000000, 0.000000, 3112.000000>
+[EOnCallAirdrop] Drop zone offset to: <13498.862305, 2438.000000, 3100.345703>
+[EOnCallAirdrop] Aircraft spawn point: <7030.058105, 2438.000000, 15360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.05371° / 332.331°, Text: 'North/West (332°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Skalisty Island' (7030.06/15360), from the North/West (332°).
+[2024-07-08 @ 23-25-34] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Krasnostav <12159.000000, 0.000000, 12583.000000>
+[EOnCallAirdrop] Drop zone offset to: <12157.463867, 2438.000000, 12554.247070>
+[EOnCallAirdrop] Aircraft spawn point: <6009.558594, 2438.000000, 15360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.71742° / 294.303°, Text: 'North/West (294°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Krasnostav' (6009.56/15360), from the North/West (294°).
+[2024-07-09 @ 00-26-44] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <9371.000000, 0.000000, 2229.000000>
+[EOnCallAirdrop] Drop zone offset to: <9307.121094, 2438.000000, 2290.278809>
+[EOnCallAirdrop] Aircraft spawn point: <13986.989258, 2438.000000, 0.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.449864° / 115.775°, Text: 'South/East (116°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Elektrozavodsk' (13987/0), from the South/East (116°).
+[2024-07-09 @ 01-27-55] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Stary Sobor <5823.000000, 0.000000, 7764.000000>
+[EOnCallAirdrop] Drop zone offset to: <5891.686035, 2438.000000, 7772.645508>
+[EOnCallAirdrop] Aircraft spawn point: <3640.892334, 2438.000000, 15360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.85053° / 343.972°, Text: 'North (344°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Stary Sobor' (3640.89/15360), from the North (344°).
+[2024-07-09 @ 03-30-18] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Balota <5043.000000, 0.000000, 2505.000000>
+[EOnCallAirdrop] Drop zone offset to: <5003.210938, 2438.000000, 2477.017334>
+[EOnCallAirdrop] Aircraft spawn point: <12372.096680, 2438.000000, 15360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.05263° / 29.689°, Text: 'North/East (030°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Balota' (12372.1/15360), from the North/East (030°).
+[2024-07-09 @ 04-31-29] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Berezino <11464.000000, 0.000000, 8908.000000>
+[EOnCallAirdrop] Drop zone offset to: <11436.827148, 2438.000000, 8901.191406>
+[EOnCallAirdrop] Aircraft spawn point: <0.000000, 2438.000000, 950.185242>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.5348° / 235.233°, Text: 'South/West (235°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Berezino' (0/950.185), from the South/West (235°).
+[2024-07-09 @ 05-32-40] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <9371.000000, 0.000000, 2229.000000>
+[EOnCallAirdrop] Drop zone offset to: <9279.992188, 2438.000000, 2207.305176>
+[EOnCallAirdrop] Aircraft spawn point: <13949.957031, 2438.000000, 15360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.23527° / 19.2243°, Text: 'North (019°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Elektrozavodsk' (13950/15360), from the North (019°).

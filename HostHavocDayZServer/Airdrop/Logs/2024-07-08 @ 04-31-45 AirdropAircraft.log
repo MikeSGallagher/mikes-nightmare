@@ -1,0 +1,16 @@
+2024-07-08 @ 04-31-45:  [AirdropPlane] Aircraft created on 2024-07-08 @ 04-31-45
+2024-07-08 @ 04-31-45:  [InitializeAircraft] Aircraft Initialized: Chernogorks @ 6128/2497 (true)
+2024-07-08 @ 04-32-04:  [EOnSpawnZombies] Zombie Spawned [1] ZmbF_Clerk_Normal_Red @ <6120.431152, 24.315979, 2520.918945> ... Lifespan:  Set to 60 minutes.
+2024-07-08 @ 04-32-22:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_PatrolNormal_Autumn @ <6111.315430, 25.365602, 2498.603271> ... Lifespan:  Set to 60 minutes.
+2024-07-08 @ 04-32-40:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_ClerkFat_White @ <6124.633789, 23.753126, 2502.927979> ... Lifespan:  Set to 60 minutes.
+2024-07-08 @ 04-32-59:  [EOnSpawnZombies] Zombie Spawned [4] ZmbF_ShortSkirt_red @ <6157.776367, 19.466608, 2522.527100> ... Lifespan:  Set to 60 minutes.
+2024-07-08 @ 04-33-17:  [EOnSpawnZombies] Zombie Spawned [5] ZmbF_PatientOld @ <6137.045410, 21.996490, 2490.073242> ... Lifespan:  Set to 60 minutes.
+2024-07-08 @ 04-33-36:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_Jacket_beige @ <6130.118164, 23.410601, 2470.477783> ... Lifespan:  Set to 60 minutes.
+2024-07-08 @ 04-33-54:  [EOnSpawnZombies] Zombie Spawned [7] ZmbF_CitizenANormal_Blue @ <6133.857422, 22.386742, 2484.650146> ... Lifespan:  Set to 60 minutes.
+2024-07-08 @ 04-34-13:  [EOnSpawnZombies] Zombie Spawned [8] ZmbF_JoggerSkinny_Green @ <6144.528809, 20.812048, 2485.616699> ... Lifespan:  Set to 60 minutes.
+2024-07-08 @ 04-34-30:  [EOnBeforeDrop] The Aircraft is 1 Km from Chernogorks, from the North/East (025°). @ <6765.644531, 274.198242, 3854.421631>
+2024-07-08 @ 04-34-31:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_Jacket_greenchecks @ <6114.954590, 24.968946, 2525.709229> ... Lifespan:  Set to 60 minutes.
+2024-07-08 @ 04-34-48:  [EOnDrop] Drop spawned with 10 infected at <6158.251953, 160.542877, 2562.492920>.
+2024-07-08 @ 04-34-48:  [EOnDrop] Supplies have been dropped near Chernogorks.
+2024-07-08 @ 04-35-25:  [EOnBeforeDelete] Aircraft despawned @ <4953.316406, 152.000610, -0.279968>
+2024-07-08 @ 04-35-25:  [~AirdropPlane] Aircraft destroyed.

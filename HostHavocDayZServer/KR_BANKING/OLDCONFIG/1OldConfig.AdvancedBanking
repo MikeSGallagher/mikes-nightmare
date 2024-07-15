@@ -1,0 +1,175 @@
+{
+    "ModVersion": "2.13",
+    "MenuDelay": 1.0,  //Seconds for the Cooldown to cooldown
+    "startCurrency": 10000000,  //Starter Money Amount
+    "maxCurrency": 10000000000,  //Maximal Amount of money to store
+    "IsClanAccountActive": 1,  //1= Clan Accounts active / 0= Clan Accounts not active
+    "CostsToCreateClan": 50000,  //Costs to create Clan (if 0 or free, no price will show in menu)
+    "CostsToInviteAnPlayer": 10000,  //Costs to invite a player into the bank account
+    "MaxClanAccountLimit": 20000000000,  //Maximal Amount of Money to store in the Clan Account
+    "MaxPlayersInClan": -1,  //Maximal Amount of players in Clan (-1 = unlimited)
+    "MinAmountToTransfer": 1000,  //Minimum Amount to transfer (to avoid trollers/spammers)
+    "TransferfeesInProcent": 2,   //Transfer Fees/taxes in percent
+    "IsRobEventActive": 0,  //1 = players can rob  0 = Players can not rob
+    "MinPlayersForRob": 1,  //Minimal Amount of Players on the Server to rob an ATM
+    "MinMoneyForRob": 1000000,  //Minimal Amount a player will get when robbing an ATM
+    "MaxMoneyForRob": 5000000,  //Maximal Amount a player will get when robbing an ATM
+    "TimeInSecToRobATM": 120, //Time In Seconds to rob an ATM
+    "RobMessagesActive": 0,  //Shows a global message when an ATM gets raided
+    "PayCheckValue": 500000,  //Paycheck Value the player will get
+    "PayCheckTickTime": 15,  //Tick Time for Paychecks (basically minutes) | To Disable use -1!
+    "IsPayCheckMessageActive": 1,  //Shows a message for Paychecks (1=yes / 0=no)
+    "CanAddPayCheckInSafezone": 1,  //Can Paycheck added when players location is in a safezone. Only Supported when TraderMod by DrJones is loadet!
+    "PayCheckMessage": "%Amount% added to your bank account! stay active to earn more money!",  //Message when a paycheck gets added. -> %Amount% is a placeholder for the amount what gets added to the bank account!
+    "MinPlayersForPayCheck": 1,  //Minimum players on the Server to pay out paychecks
+    "CanAddToFullAcc": 1,  //Can add paycheck even when the ATM is full
+    "NeedsBankCardToOpenMenu": 0,  //Needs card in the hands to open banking Menu
+    "m_LoggingSettings": {
+        "m_LogMode": 1,  //Valid Log Modes are: (0 = No Logs) (1 = Log to Own File in KR_Banking) (2 = Log to ADM logfile.) (3 = Log to scriptlog file!).
+        "m_LogDepositOwnBank": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogWithdraw": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogClanDeposit": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogClanWithdraw": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogCreateClanAccount": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogDeleteClanAccount": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogInviteMember": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogUpdatePermission": 1 //Decide what to log (1=yes / 0=no)
+    },
+    "m_DiscordWebhook": {
+        "m_UseWebhook": 1,  //Use discord webhook (1=yes, 0=no).
+        "m_WebhookURL": "https://discord.com/api/webhooks/925608969509163028/rWbSkj54A07RLY9FFnxKM0H7XzdDAj4KT0va4tqaVtgQTYSVPmWF75YdecIw_GiSCUGr", //Paste Webhook URL 
+        "m_LogDepositToDiscord": 1,  //Decide what to log (1=yes / 0=no)
+        "m_LogWithdrawToDiscord": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogClanDepositToDiscord": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogClanWithdrawToDiscord": 1, //Decide what to log (1=yes / 0=no)
+		"m_LogClanCreateToDiscord": 1, //Decide what to log (1=yes / 0=no)
+        "m_LogClanInviteMemberToDiscord": 1,  //Decide what to log (1=yes / 0=no)
+        "m_LogClanRemoveMemberToDiscord": 1,  //Decide what to log (1=yes / 0=no)
+        "m_LogClanUpdatePermissionToDiscord": 1,  //Decide what to log (1=yes / 0=no)
+        "m_LogClanKickMemberToDiscord": 1,  //Decide what to log (1=yes / 0=no)
+		"m_LogPlayerMoneyTransefer": 1, //Decide what to log (1=yes / 0=no)
+		"m_LogPlayerATMRobbery": 1, //Decide what to log (1=yes / 0=no)
+        "m_AdminLogUpdateServerConfig": 1,  //Decide what to log (1=yes / 0=no)
+        "m_AdminLogUpdatePlayerData": 1,  //Decide what to log (1=yes / 0=no)
+        "m_AdminLogUpdateClanData": 1,  //Decide what to log (1=yes / 0=no)
+        "m_AdminLogUseMisc": 1  //Decide what to log (1=yes / 0=no)
+    },
+    "ATM": [
+        {
+            "ATMSName": "KR_ATMBlack",  //Classname of the ATM Object (read classnames.txt!)
+            "Position": [
+                3706.7, // Position X of the ATM!
+                402.012,  //Positions Y of the ATM!
+                5984.86  //Position Z of the ATM!
+            ],
+            "Direction": [
+                -90.0, //Yaw
+                0.0, //Pitch
+                0.0 //Roll
+            ],
+            "CanBeRobbed": 0, //Can this ATM robbed (1 = yes, 0 = no).
+            "RobMessage": "%PlayerName% start robbing an ATM!" //Rob message will pop up when an ATM gets robbed! valid placeholders are: (%PlayerName% = robbers name.) (%id% = robbers steam64id) (%Pos% = robbers X Y Position!)
+	},
+        {
+            "ATMSName": "KR_ATMRed",  //Classname of the ATM Object (read classnames.txt!)
+            "Position": [
+                3704.7, // Position X of the ATM!
+                402.332,  //Positions Y of the ATM!
+                6003.1  //Position Z of the ATM!
+            ],
+            "Direction": [
+                -275.0, //Yaw
+                0.0, //Pitch
+                0.0 //Roll
+            ],
+            "CanBeRobbed": 0, //Can this ATM robbed (1 = yes, 0 = no).
+            "RobMessage": "%PlayerName% start robbing an ATM!" //Rob message will pop up when an ATM gets robbed! valid placeholders are: (%PlayerName% = robbers name.) (%id% = robbers steam64id) (%Pos% = robbers X Y Position!)
+        },
+        {
+            "ATMSName": "KR_ATMOrange",  //Classname of the ATM Object (read classnames.txt!)
+            "Position": [
+                8360.15, // Position X of the ATM!
+                292.054,  //Positions Y of the ATM!
+                5994.15  //Position Z of the ATM!
+            ],
+            "Direction": [
+                -325.0, //Yaw
+                0.0, //Pitch
+                0.0 //Roll
+            ],
+            "CanBeRobbed": 0, //Can this ATM robbed (1 = yes, 0 = no).
+            "RobMessage": "%PlayerName% start robbing an ATM!" //Rob message will pop up when an ATM gets robbed! valid placeholders are: (%PlayerName% = robbers name.) (%id% = robbers steam64id) (%Pos% = robbers X Y Position!)
+        },
+        {
+            "ATMSName": "KR_ATMGreen",  //Classname of the ATM Object (read classnames.txt!)
+            "Position": [
+                8350.7, // Position X of the ATM!
+                292.011,  //Positions Y of the ATM!
+                5978.3  //Position Z of the ATM!
+            ],
+            "Direction": [
+                -235.0, //Yaw
+                0.0, //Pitch
+                0.0 //Roll
+            ],
+            "CanBeRobbed": 0, //Can this ATM robbed (1 = yes, 0 = no).
+            "RobMessage": "%PlayerName% start robbing an ATM!" //Rob message will pop up when an ATM gets robbed! valid placeholders are: (%PlayerName% = robbers name.) (%id% = robbers steam64id) (%Pos% = robbers X Y Position!)
+        },
+        {
+            "ATMSName": "KR_ATMBlackWhite",  //Classname of the ATM Object (read classnames.txt!)
+            "Position": [
+                6262.1, // Position X of the ATM!
+                301.012,  //Positions Y of the ATM!
+                7725.4  //Position Z of the ATM!
+            ],
+            "Direction": [
+                -35.0, //Yaw
+                0.0, //Pitch
+                0.0 //Roll
+            ],
+            "CanBeRobbed": 0, //Can this ATM robbed (1 = yes, 0 = no).
+            "RobMessage": "%PlayerName% start robbing an ATM!" //Rob message will pop up when an ATM gets robbed! valid placeholders are: (%PlayerName% = robbers name.) (%id% = robbers steam64id) (%Pos% = robbers X Y Position!)
+        },
+        {
+            "ATMSName": "KR_ATMRusty",  //Classname of the ATM Object (read classnames.txt!)
+            "Position": [
+                11477.8, // Position X of the ATM!
+                341.941,  //Positions Y of the ATM!
+                11341.6  //Position Z of the ATM!
+            ],
+            "Direction": [
+                -35.0, //Yaw
+                0.0, //Pitch
+                0.0 //Roll
+            ],
+            "CanBeRobbed": 0, //Can this ATM robbed (1 = yes, 0 = no).
+            "RobMessage": "%PlayerName% start robbing an ATM!" //Rob message will pop up when an ATM gets robbed! valid placeholders are: (%PlayerName% = robbers name.) (%id% = robbers steam64id) (%Pos% = robbers X Y Position!)
+        }
+    ],
+    "BankingCurrency": [ //Servers curreny make sure the first value is the highest value!
+        {
+            "CurrencyName": "MoneyRuble100", //Classname of the currency.
+            "CurrencyValue": 100 //Value of the currency.
+        },
+        {
+            "CurrencyName": "MoneyRuble50",
+            "CurrencyValue": 50
+        },
+        {
+            "CurrencyName": "MoneyRuble25",
+            "CurrencyValue": 25
+        },
+        {
+            "CurrencyName": "MoneyRuble10",
+            "CurrencyValue": 10
+        },
+        {
+            "CurrencyName": "MoneyRuble5",
+            "CurrencyValue": 5
+        },
+        {
+            "CurrencyName": "MoneyRuble1",
+            "CurrencyValue": 1
+        }
+    ]
+}

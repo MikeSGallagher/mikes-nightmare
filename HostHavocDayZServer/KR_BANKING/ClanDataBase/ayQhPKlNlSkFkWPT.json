@@ -1,0 +1,21 @@
+{
+    "m_ClanID": "ayQhPKlNlSkFkWPT",
+    "m_OwnersPlainID": "76561198870837165",
+    "m_ClanName": "Fun Squad",
+    "m_Prefix": "BMB",
+    "m_BankAmount": 0,
+    "m_Members": [
+        {
+            "m_plainID": "76561198870837165",
+            "m_playername": "[BMB] Storm",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        }
+    ],
+    "m_ClanLogs": []
+}
