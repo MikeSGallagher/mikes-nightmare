@@ -1,0 +1,104 @@
+        {
+            "M_MARKER_NAME":"Balota",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 5043, 0, 2505 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Berezino",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 11464, 0, 8908 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Chernogorks",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 6128, 0, 2497 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Elektrozavodsk",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 9371, 0, 2229 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Krasnostav",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 12159, 0, 12583 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Myshkino",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 2036, 0, 7491 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Northwest Airfield",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 4807, 0, 9812 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Novodmitrovsk",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 11125, 0, 14040 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Novy Sobor",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 7436, 0, 7720 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Skalisty Island",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 13452, 0, 3112 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Sosnovka",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 2700, 0, 6193 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Stary Sobor",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 5823, 0, 7764 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Zelenogorks",
+            "M_ICON_PATH":"VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\",
+            "M_COLOR": [ 0, 0, 0 ],
+            "M_POSITION": [ 2351, 0, 5393 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }

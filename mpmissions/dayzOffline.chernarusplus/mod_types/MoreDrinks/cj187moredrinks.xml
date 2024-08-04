@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="Apple_Red">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+    <type name="Apple_Yellow">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+    <type name="Apple_Green">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+      <type name="Bottle_Milk">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+        <type name="Bottle_Cola">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+        <type name="Bottle_Pepsi">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+        <type name="OilCannister">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+        <type name="SmallOilCannister">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+        <type name="Cola">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+        <type name="Cola_Cherry">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+        <type name="Cola_Light">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+        <type name="MonsterEnergy1">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+        <type name="MonsterEnergy2">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="MonsterEnergy3">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="MonsterEnergy4">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="MonsterEnergy5">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="MonsterEnergy6">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="MonsterEnergy7">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="MonsterEnergy8">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="MTN_Dew">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="MTN_Dew2">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="Pepsi">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="Pepsi2">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="Pepsi_Light">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="Fanta">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="Sprite">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="BlackOlivesCan">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="BlackOlivesCan_Opened">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="CookedSpinachCan">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="CookedSpinachCan_Opened">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="FavabeansCan">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="FavabeansCan_Opened">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="FruitcocktailCan">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="FruitcocktailCan_Opened">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="GreenbeansCan">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="GreenbeansCan_Opened">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="KidneybeansCan">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="KidneybeansCan_Opened">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="SlicedbeetsCan">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="SlicedbeetsCan_Opened">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="SlicedpineappleCan">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+          <type name="SlicedpineappleCan_Opened">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="industrialfood" />
+    <tag name="shelves" />
+    <usage name="Village" />
+    <usage name="Town" />
+  </type>
+</types>

@@ -10225,6 +10225,9 @@
 						<point pos="-3.292971 5.000000 -12.870850" range="1.199951" height="2.000000" />
 						<point pos="3.061525 5.000000 -14.561523" range="1.199951" height="2.000000" />
 				</container>
+				<dispatch>
+        				<proxy type="AMS_MedChest_Red" pos="1.35 0.83 -14.78" rpy="0.0 180.0 0.0"/>
+    				</dispatch>
 		</group>
 		<group name="Land_Mil_FireStation" lootmax="15">
 				<usage name="Military" />
@@ -10403,6 +10406,9 @@
 						<point pos="-3.292971 5.000000 -12.870850" range="1.199951" height="2.000000" />
 						<point pos="3.061525 5.000000 -14.561523" range="1.199951" height="2.000000" />
 				</container>
+				<dispatch>
+        				<proxy type="AMS_MedChest_Red" pos="1.35 0.83 -14.78" rpy="0.0 180.0 0.0"/>
+    				</dispatch>
 		</group>
 		<group name="Land_Misc_Scaffolding" lootmax="4">
 				<usage name="Industrial" />
@@ -11173,6 +11179,9 @@
 						<point pos="1.967733 1.016510 -3.260932" range="0.237500" height="0.593750" />
 						<point pos="0.130408 0.007614 -3.332648" range="0.935200" height="2.000000" />
 				</container>
+				<dispatch>
+        				<proxy type="AMS_MedChest_Red" pos="-2.19 0.06 -4.68" rpy="0.0 180.0 0.0"/>
+    				</dispatch>
 		</group>
 		<group name="Land_Village_HealthCare" lootmax="15">
 				<usage name="Medic" />
@@ -11249,6 +11258,9 @@
 						<point pos="-2.511345 -2.262264 5.427944" range="0.237500" height="0.593750" />
 						<point pos="4.661276 -2.966034 4.360758" range="0.520020" height="1.300050" />
 				</container>
+				 <dispatch>
+        				<proxy type="AMS_MedChest_Green" pos="2.033 -1.95 -1.84" rpy="0.0 180.0 0.0"/>
+   				 </dispatch>
 		</group>
 		<group name="Land_City_Hospital" lootmax="40">
 				<usage name="Medic" />
@@ -11397,6 +11409,9 @@
 						<point pos="0.370956 3.292519 8.228090" range="1.200000" height="2.000000" />
 						<point pos="8.448201 -7.350072 13.449620" range="1.200000" height="2.000000" />
 				</container>
+			<dispatch>
+        		 	<proxy type="AMS_MedChest_Red" pos="-1.48 -2.71 -8.65" rpy="0.0 -90.0 0.0"/>
+    			</dispatch>
 		</group>
 		<group name="Land_Misc_TrailRoof_Big" lootmax="2">
 				<usage name="Hunting" />
@@ -11590,6 +11605,9 @@
 						<point pos="4.066174 -1.666695 0.388374" range="0.433106" height="1.082765" />
 						<point pos="3.709741 -1.346848 2.698318" range="0.443750" height="1.109375" />
 				</container>
+				<dispatch>
+        				<proxy type="AMS_MedChest_Green" pos="-0.60 -0.85 1.19" rpy="0.0 -90.0 0.0"/>
+    				</dispatch>
 		</group>
 		<group name="Land_Camp_House_white">
 				<usage name="Hunting" />
@@ -11629,6 +11647,9 @@
 						<point pos="-0.226722 -1.341988 -2.015856" range="0.378512" height="0.946251" />
 						<point pos="3.583814 -1.341988 -2.711381" range="0.409375" height="1.023407" />
 				</container>
+				<dispatch>
+        				<proxy type="AMS_MedChest_Green" pos="-0.60 -0.61 1.28" rpy="0.0 -90.0 0.0"/>
+    				</dispatch>
 		</group>
 		<group name="Land_Camp_House_brown">
 				<usage name="Hunting" />
@@ -11667,6 +11688,9 @@
 						<point pos="0.009574 -1.363464 1.447183" range="0.340625" height="0.851563" />
 						<point pos="0.930465 -1.363213 1.634892" range="0.376999" height="0.942162" />
 				</container>
+				<dispatch>
+        				<proxy type="AMS_MedChest_Green" pos="-0.60 -0.80 -1.70" rpy="0.0 -90.0 0.0"/>
+    				</dispatch>
 		</group>
 		<group name="Land_Castle_Bergfrit">
 				<usage name="Hunting" />
@@ -15318,6 +15342,9 @@
 						<point pos="3.348878 -2.493612 7.668456" range="0.340625" height="0.851563" />
 						<point pos="3.636109 -2.493612 5.282225" range="0.340625" height="0.851563" />
 				</container>
+			<dispatch>
+        			<proxy type="AMS_MedChest_Green" pos="2.033 -1.95 -1.84" rpy="0.0 180.0 0.0"/>
+    			</dispatch>
 		</group>
 		<group name="Land_Village_Store_Enoch" lootmax="10">
 				<usage name="Village" />

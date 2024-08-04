@@ -218,7 +218,7 @@
 		gunwall_metal_kit_mung,              *,      1000,   400	
 	
 	<Category> Mass's ManyItemOverhaul  
-            Mass_PressVestBlack,			*,		1000,	5	
+            		Mass_PressVestBlack,			*,		1000,	5	
 			Masswoodlandcamovest,			*,		1000,	5	
 			MassSmershvestcomplete,			*,		1000,	5	
 			MassSmershvestWintercomplete,	*,		1000,	5	
@@ -368,13 +368,13 @@
 			MassNBC_Bag,					*,		1000,	5	
 			MassAR500,						*,		1000,	5	
 			MassAR500pair,					*,		1000,	5	
-           	AmmoBox_408Chey,				*,		1000,	5	
+           		AmmoBox_408Chey,				*,		1000,	5	
 			AmmoBox_12gaBB,					*,		1000,	5	
 			AmmoBox_338,					*,		1000,	5	
 			MassScoutSuppressor,			*,		1000,	5	
 			shotgun_Suppressor,				*,		1000,	5	
 			MassSuppressor308,				*,		1000,	5	
-            MassSVT40,						*,		1000,	5	
+            		MassSVT40,						*,		1000,	5	
 			MassSVT40_Black,				*,		1000,	5	
 			MassSVT40_Green,				*,		1000,	5	
 			MassSVT40_Camo,					*,		1000,	5	
@@ -390,7 +390,7 @@
 			MassPpskn,						*,		1000,	5	
 			MassM110,						*,		1000,	5	
 			Massarmsan,						*,		1000,	5	
-            Ammo_408Chey,					*,		1000,	5	
+            		Ammo_408Chey,					*,		1000,	5	
 			Ammo_338,						*,		1000,	5	
 			Ammo_12GaBB,					*,		1000,	5	
 			Scout556mag,					*,		1000,	5	
@@ -596,7 +596,7 @@
 		Bear_Pink,				*,		5,		1
 		Bear_White,				*,		5,		1
 		
-	<Category> BBPItemPack
+	<Category> BBP & ItemPack
 		BBP_Wall_Kit, *, 200, 10
 		BBP_Door_Kit, *, 200, 10
 		BBP_Floor_Kit, *, 200, 10
@@ -615,7 +615,6 @@
 		BBP_Triangle_Floor_Kit, *, 200, 10
 		BBP_Triangle_Roof_Kit, *, 200, 10
 		BBP_Window_Kit, *, 200, 10
-		// BBP_BuildPermit, *, 200, 100
 		BBP_Blueprint, *, 200, 100
 		BBP_Workbench_Kit, *, 300, 150
 		BBP_Step_Ladder_Kit, *, 200, 100
@@ -623,9 +622,64 @@
 		BBP_Concrete_Brick_Pile, *, 800, 400
 		BBP_Cement, *, 2000, 1000
 		BBP_Mortar_Mix, *, 200, 100
-		BBP_Cement_Mixer_Kit, *, 10000, 5000
-
-		
+		BBP_Land_Claim_FlagKit,								*,		5000,		2500
+		BBP_Wood_Storage,								*,		1000,		500
+		BBP_Old_Lamp,									*,		600,		300
+		BBP_Floor_Lamp,									*,		800,		400
+		BBP_Sun_Shade,									*,		600,		300
+		BBP_Tape_Measure,								*,		20,			10
+		BBP_Painting,									*,		200,		100
+		BBP_Painting_1,									*,		200,		100
+		BBP_Painting_2,									*,		200,		100
+		BBP_Xmas_Tree,									*,		400,		200
+		BBP_MagnetBox,									*,		100,		50
+		BBP_Letter_Large_A,								*,		100,		50
+		BBP_Letter_Large_B,								*,		100,		50
+		BBP_Letter_Large_C,								*,		100,		50
+		BBP_Letter_Large_D,								*,		100,		50
+		BBP_Letter_Large_E,								*,		100,		50
+		BBP_Letter_Large_F,								*,		100,		50
+		BBP_Letter_Large_G,								*,		100,		50
+		BBP_Letter_Large_H,								*,		100,		50
+		BBP_Letter_Large_I,								*,		100,		50
+		BBP_Letter_Large_J,								*,		100,		50
+		BBP_Letter_Large_K,								*,		100,		50
+		BBP_Letter_Large_L,								*,		100,		50
+		BBP_Letter_Large_M,								*,		100,		50
+		BBP_Letter_Large_N,								*,		100,		50
+		BBP_Letter_Large_O,								*,		100,		50
+		BBP_Letter_Large_P,								*,		100,		50
+		BBP_Letter_Large_Q,								*,		100,		50
+		BBP_Letter_Large_R,								*,		100,		50
+		BBP_Letter_Large_S,								*,		100,		50
+		BBP_Letter_Large_T,								*,		100,		50
+		BBP_Letter_Large_U,								*,		100,		50
+		BBP_Letter_Large_V,								*,		100,		50
+		BBP_Letter_Large_W,								*,		100,		50
+		BBP_Letter_Large_X,								*,		100,		50
+		BBP_Letter_Large_Y,								*,		100,		50
+		BBP_Letter_Large_Z,								*,		100,		50
+		BBP_Golf,										*,		80,			40
+		BBP_Gang_Plug,									*,		800,		400
+		BBP_SolarPlus_PanelKit,							*,		6000,		3000
+		BBP_BedKit,										*,		800,		400
+		BBP_Bedding,									*,		120,		60
+		BBP_Step_LadderKit,								*,		800,		400
+		BBP_Bucket,										*,		10000,		5000
+		BBP_WellKit,									*,		10100,		5050
+		BBP_Wheelbarrow,								*,		400,		200
+		BBP_Toilet,										*,		600,		300
+		BBP_SofaKit,									*,		800,		400
+		BBP_Dance_FloorKit,								*,		400,		200
+		BBP_XmasLights_9v,								*,		80,			40
+		BBP_XmasLights_Solar,							*,		120,		60
+		BBP_Painting_Landscape,							*,		200,		100
+		BBP_PhotoFrame_Portrait,						*,		50,			25
+		BBP_PhotoFrame_Landscape,						*,		50,			25
+		BBP_Carpet_Roll,								*,		100,		50
+		BBP_Mesh_Floor_Kit,								*,		400,		200
+		BBP_Blueprint_Expanded,							*,		400,		200
+		RFSolarPanelKit,							*,		75000,		60000		
 <Trader> Weapon Trader
 
 	<Category> Rev_Guns
@@ -2207,6 +2261,1330 @@ TTC_Elcan_AK, *, 5000, 2000
 	
 	
 <Trader> Clothing Trader
+
+    <Category>FOG Melee
+
+            FOG_SOCOM_Slammer_Black, *, 1000, 250
+            FOG_BoltCutters, *, 1000, 250
+            FOG_ZynCan_WinterGreen, *, 1000, 250
+            FOG_DR_Tomahawk_Standard, *, 1000, 250
+            FOG_Strongarm_Knife, *, 1000, 250
+
+    <Category>FOG Pants
+
+        FOG_FieldPants_Grey, *, 1500, 250
+        FOG_FieldPants_RG, *, 1500, 250
+        FOG_FieldPants_CB, *, 1500, 250
+        FOG_FieldPants_KHK, *, 1500, 250
+        FOG_FieldPants_Black, *, 1500, 250
+        FOG_FieldPants_M81, *, 1500, 250
+        FOG_FieldPants_MC, *, 1500, 250
+        FOG_FieldPants_MC_Ranger, *, 1500, 250
+        FOG_FieldPants_MCB, *, 1500, 250
+        FOG_FieldPants_UCP, *, 1500, 250
+        FOG_FieldPants_AOR1, *, 1500, 250
+        FOG_FieldPants_AOR2, *, 1500, 250
+        FOG_FieldShorts_Grey, *, 1500, 250
+        FOG_FieldShorts_RG, *, 1500, 250
+        FOG_FieldShorts_CB, *, 1500, 250
+        FOG_FieldShorts_KHK, *, 1500, 250
+        FOG_FieldShorts_Black, *, 1500, 250
+        FOG_FieldShorts_M81, *, 1500, 250
+        FOG_FieldShorts_MC, *, 1500, 250
+        FOG_FieldShorts_MC_Ranger, *, 1500, 250
+        FOG_FieldShorts_MCB, *, 1500, 250
+        FOG_FieldShorts_UCP, *, 1500, 250
+        FOG_FieldShorts_AOR1, *, 1500, 250
+        FOG_FieldShorts_AOR2, *, 1500, 250
+        FOG_G99_Pants_Black, *, 1500, 250
+        FOG_G99_Pants_CB, *, 1500, 250
+        FOG_G99_Pants_RG, *, 1500, 250
+        FOG_G99_Pants_M81, *, 1500, 250
+        FOG_Pants_Crye_G3_M81, *, 1500, 250
+        FOG_Pants_Crye_G3_MC, *, 1500, 250
+        FOG_Pants_Crye_G3_Black, *, 1500, 250
+        FOG_Pants_Crye_G3_MCB, *, 1500, 250
+        FOG_Pants_Crye_G3_GTiger, *, 1500, 250
+        FOG_Pants_Crye_G3_AOR1, *, 1500, 250
+        FOG_Pants_Crye_G3_AOR2, *, 1500, 250
+        FOG_Pants_Crye_G3_CB, *, 1500, 250
+        FOG_Pants_Crye_G3_RG, *, 1500, 250
+        FOG_Pants_Crye_G3_Grey, *, 1500, 250
+        FOG_Pants_Crye_G3_DTGR, *, 1500, 250
+        FOG_Pants_Crye_G3_MARPAT, *, 1500, 250
+        FOG_Pants_Crye_G3_MCA, *, 1500, 250
+        FOG_Pants_Crye_G3_MCAL, *, 1500, 250
+        FOG_Pants_Crye_G3_MCT, *, 1500, 250
+        FOG_Pants_Crye_G3_RDBS, *, 1500, 250
+        FOG_Pants_Crye_G3_ALPF, *, 1500, 250
+        FOG_Pants_Crye_G3_AMCU, *, 1500, 250
+        FOG_Pants_Crye_G3_Blue, *, 1500, 250
+        FOG_Pants_Crye_G3_DNC, *, 1500, 250
+        FOG_Pants_Crye_G3_DPM, *, 1500, 250
+        FOG_Pants_Crye_G3_ERDL_RED, *, 1500, 250
+        FOG_Pants_Crye_G3_KHK, *, 1500, 250
+        FOG_Pants_Crye_G3_MC_BlackTrim, *, 1500, 250
+        FOG_Pants_Crye_G3_MC_FRACU, *, 1500, 250
+        FOG_Pants_Crye_G3_Pantera, *, 1500, 250
+        FOG_Pants_Crye_G3_RG_BlackTrim, *, 1500, 250
+        FOG_Pants_Crye_G3_BTGR, *, 1500, 250
+        FOG_Pants_Crye_G3_RTGR, *, 1500, 250
+        FOG_Pants_Crye_G3_KBTGR, *, 1500, 250
+        FOG_Pants_Crye_G3_UCP, *, 1500, 250
+        FOG_Gorka_Pants_Khaki, *, 1500, 250
+        FOG_Gorka_Pants_Black, *, 1500, 250
+        FOG_MTF_Pants_Grey, *, 1500, 250
+        FOG_MTF_Pants_Black, *, 1500, 250
+        FOG_MTF_Pants_Blue, *, 1500, 250
+        FOG_MTF_Pants_RG, *, 1500, 250
+        FOG_MTF_Pants_OD, *, 1500, 250
+        FOG_MTF_Pants_KHK, *, 1500, 250
+        FOG_MTF_Pants_CB, *, 1500, 250
+        FOG_MTF_Pants_ERDL, *, 1500, 250
+        FOG_MTF_Pants_MC, *, 1500, 250
+        FOG_MTF_Pants_MCB, *, 1500, 250
+        FOG_MTF_Pants_FK, *, 1500, 250
+        FOG_MTF_Pants_TS, *, 1500, 250
+        FOG_UFP_Pants_6CD, *, 1500, 250
+        FOG_UFP_Pants_ALP, *, 1500, 250
+        FOG_UFP_Pants_Black, *, 1500, 250
+        FOG_UFP_Pants_DCU, *, 1500, 250
+        FOG_UFP_Pants_Grey, *, 1500, 250
+        FOG_UFP_Pants_MCB, *, 1500, 250
+        FOG_UFP_Pants_Cum, *, 1500, 250
+        FOG_UFP_Pants_OD, *, 1500, 250
+        FOG_UFP_Pants_M81, *, 1500, 250
+        FOG_UFP_Pants_MC, *, 1500, 250
+        FOG_UFP_Pants_RG, *, 1500, 250
+        FOG_UFP_Pants_Tan, *, 1500, 250
+        FOG_UFP_Pants_Urban, *, 1500, 250
+        FOG_UFP_Pants_White, *, 1500, 250
+        FOG_BDU_Pants_Black, *, 1500, 250
+        FOG_BDU_Pants_RG, *, 1500, 250
+        FOG_BDU_Pants_Tan, *, 1500, 250
+
+        <Category>FOG TOPS
+        FOG_ButtonUp_Black, *, 1500, 750
+        FOG_ButtonUp_Grey, *, 1500, 750
+        FOG_ButtonUp_Red, *, 1500, 750
+        FOG_ButtonUp_RG, *, 1500, 750
+        FOG_ButtonUp_CB, *, 1500, 750
+        FOG_ButtonUp_Floral_YR, *, 1500, 750
+        FOG_ButtonUp_Floral_BW, *, 1500, 750
+        FOG_ButtonUp_Floral_BB, *, 1500, 750
+        FOG_ButtonUp_Floral_MD, *, 1500, 750
+        FOG_ButtonUp_Floral_Dark, *, 1500, 750
+        FOG_ButtonUp_Floral_Bright, *, 1500, 750
+        FOG_ButtonUp_Flamingo1, *, 1500, 750
+        FOG_ButtonUp_Flamingo2, *, 1500, 750
+        FOG_ButtonUp_SkinnyPalms, *, 1500, 750
+        FOG_ButtonUp_Waves, *, 1500, 750
+        FOG_ButtonUp_SunsetPalms, *, 1500, 750
+        FOG_ButtonUp_Clouds, *, 1500, 750
+        FOG_ButtonUp_MC, *, 1500, 750
+        FOG_ButtonUp_MCB, *, 1500, 750
+        FOG_G2_Hoodie_MC, *, 1500, 750
+        FOG_G3_Hoodie_MC, *, 1500, 750
+        FOG_G3_Hoodie_Black, *, 1500, 750
+        FOG_G3_Hoodie_Blue, *, 1500, 750
+        FOG_G3_Hoodie_DPM, *, 1500, 750
+        FOG_G3_Hoodie_MC_Pata, *, 1500, 750
+        FOG_G3_Hoodie_AOR1, *, 1500, 750
+        FOG_G3_Hoodie_AOR2, *, 1500, 750
+        FOG_G3_Hoodie_M81, *, 1500, 750
+        FOG_Cronen_Shirt_Black, *, 1500, 750
+        FOG_Cronen_Shirt_RG, *, 1500, 750
+        FOG_Cronen_Shirt_CB, *, 1500, 750
+        FOG_Cronen_Shirt_MC, *, 1500, 750
+        FOG_511_Shirt_Flanel, *, 1500, 750
+        FOG_511_Shirt_Flanel_Black, *, 1500, 750
+        FOG_511_Shirt_Flanel_Red, *, 1500, 750
+        FOG_511_Shirt_Flanel_Blue, *, 1500, 750
+        FOG_511_Shirt_Flanel_Green, *, 1500, 750
+        FOG_Crye_G2_Shirt_MC, *, 1500, 750
+        FOG_Crye_G3_Shirt_MC, *, 1500, 750
+        FOG_Crye_G3_Shirt_MCB, *, 1500, 750
+        FOG_Crye_G3_Shirt_MCT, *, 1500, 750
+        FOG_Crye_G3_Shirt_MCA, *, 1500, 750
+        FOG_Crye_G3_Shirt_MCAL, *, 1500, 750
+        FOG_Crye_G3_Shirt_6CD, *, 1500, 750
+        FOG_Crye_G3_Shirt_AOR1, *, 1500, 750
+        FOG_Crye_G3_Shirt_AOR2, *, 1500, 750
+        FOG_Crye_G3_Shirt_Black, *, 1500, 750
+        FOG_Crye_G3_Shirt_CB, *, 1500, 750
+        FOG_Crye_G3_Shirt_RG, *, 1500, 750
+        FOG_Crye_G3_Shirt_DCU, *, 1500, 750
+        FOG_Crye_G3_Shirt_DTGR, *, 1500, 750
+        FOG_Crye_G3_Shirt_Grey, *, 1500, 750
+        FOG_Crye_G3_Shirt_M81, *, 1500, 750
+        FOG_Crye_G3_Shirt_MARPAT, *, 1500, 750
+        FOG_Crye_G3_Shirt_RDBS, *, 1500, 750
+        FOG_Crye_G3_Shirt_TGR, *, 1500, 750
+        FOG_Crye_G3_Shirt_RG_BlackTrim, *, 1500, 750
+        FOG_Crye_G3_Shirt_MC_FRACU, *, 1500, 750
+        FOG_Crye_G3_Shirt_MC_BlackTrim, *, 1500, 750
+        FOG_Crye_G3_Shirt_MC_Patagonia, *, 1500, 750
+        FOG_Crye_G3_Shirt_Blue, *, 1500, 750
+        FOG_Crye_G3_Shirt_AMCU, *, 1500, 750
+        FOG_Crye_G3_Shirt_ALPF, *, 1500, 750
+        FOG_Crye_G3_Shirt_DNC, *, 1500, 750
+        FOG_Crye_G3_Shirt_DPM, *, 1500, 750
+        FOG_Crye_G3_Shirt_ERDL_Red, *, 1500, 750
+        FOG_Crye_G3_Shirt_KHK, *, 1500, 750
+        FOG_Crye_G3_Shirt_Pantera, *, 1500, 750
+        FOG_Crye_G3_Shirt_BTGR, *, 1500, 750
+        FOG_Crye_G3_Shirt_KBTGR, *, 1500, 750
+        FOG_Crye_G3_Shirt_RTGR, *, 1500, 750
+        FOG_Crye_G3_Shirt_UCP, *, 1500, 750
+        FOG_Enhanced_PCU_MC, *, 1500, 750
+        FOG_Enhanced_PCU_MC2, *, 1500, 750
+        FOG_Enhanced_PCU_Black, *, 1500, 750
+        FOG_Enhanced_PCU_Grey, *, 1500, 750
+        FOG_Enhanced_PCU_Tan, *, 1500, 750
+        FOG_Enhanced_PCU_RG, *, 1500, 750
+        FOG_Enhanced_PCU_USMC, *, 1500, 750
+        FOG_Enhanced_PCU_DNC, *, 1500, 750
+        FOG_HeavyRiders_Jacket_Black, *, 1500, 750
+        FOG_HeavyRiders_Jacket_Teal, *, 1500, 750
+        FOG_HeavyRiders_Jacket_Red, *, 1500, 750
+        FOG_HeavyRiders_Jacket_Green, *, 1500, 750
+        FOG_HeavyRiders_Jacket_RB, *, 1500, 750
+        FOG_Hoodie_Jacket_Black, *, 1500, 750
+        FOG_Hoodie_Jacket_Nike_G, *, 1500, 750
+        FOG_Hoodie_Jacket_Patagonia, *, 1500, 750
+        FOG_Hoodie_Jacket_FOG, *, 1500, 750
+        FOG_Hoodie_Jacket_CDAJ, *, 1500, 750
+        FOG_Hoodie_Jacket_MC, *, 1500, 750
+        FOG_Hoodie_Jacket_ERDL, *, 1500, 750
+        FOG_Hoodie_Jacket_PERDL, *, 1500, 750
+        FOG_Hoodie_Jacket_Thrasher, *, 1500, 750
+        FOG_Hoodie_Jacket_Supreme, *, 1500, 750
+        FOG_Hoodie_Jacket_MLG, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_Black, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_Nike_G, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_Patagonia, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_FOG, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_CDAJ, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_MC, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_ERDL, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_PERDL, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_Thrasher, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_Supreme, *, 1500, 750
+        FOG_Hoodie_Jacket_Rolled_MLG, *, 1500, 750
+        FOG_Shirt_ISOF_Jacket_Black, *, 1500, 750
+        FOG_Shirt_ISOF_Jacket_MC, *, 1500, 750
+        FOG_Shirt_ISOF_Jacket_MC2, *, 1500, 750
+        FOG_Shirt_ISOF_Jacket_M81, *, 1500, 750
+        FOG_Shirt_Tactical_Coat_Black, *, 1500, 750
+        FOG_Shirt_Polo_Blue, *, 1500, 750
+        FOG_Shirt_Polo_NavyBlue, *, 1500, 750
+        FOG_Shirt_Polo_Black, *, 1500, 750
+        FOG_Shirt_Polo_OD, *, 1500, 750
+        FOG_Shirt_Polo_Trident, *, 1500, 750
+        FOG_Jacket_SoftShell_Tan, *, 1500, 750
+        FOG_Jacket_SoftShell_Black, *, 1500, 750
+        FOG_Jacket_SoftShell_Grey, *, 1500, 750
+        FOG_Jacket_SoftShell_ERDL, *, 1500, 750
+        FOG_Jacket_SoftShell_MC, *, 1500, 750
+        FOG_Jacket_SoftShell_MCB, *, 1500, 750
+        FOG_Jacket_SoftShell_RG, *, 1500, 750
+        FOG_Jacket_SoftShell_CB, *, 1500, 750
+        FOG_Tactical_Hoodie_Black, *, 1500, 750
+        FOG_Tactical_Hoodie_CB, *, 1500, 750
+        FOG_Tactical_Hoodie_RG, *, 1500, 750
+        FOG_Tactical_Hoodie_MC, *, 1500, 750
+        FOG_Tactical_Hoodie_MCB, *, 1500, 750
+        FOG_Tactical_Hoodie_ERDL, *, 1500, 750
+        FOG_Tactical_Hoodie_ERDL_Blk, *, 1500, 750
+        FOG_Tactical_Hoodie_UWU, *, 1500, 750
+        FOG_Tshirt_Black, *, 1500, 750
+        FOG_Tshirt_Grey, *, 1500, 750
+        FOG_Tshirt_White, *, 1500, 750
+        FOG_Tshirt_CB, *, 1500, 750
+        FOG_Tshirt_RG, *, 1500, 750
+        FOG_Tshirt_Red, *, 1500, 750
+        FOG_Tshirt_Tan499, *, 1500, 750
+        FOG_Tshirt_Black_Canoe, *, 1500, 750
+        FOG_Tshirt_Tan_Canoe, *, 1500, 750
+        FOG_Tshirt_Black_CrimeCo, *, 1500, 750
+        FOG_Tshirt_Tan_CrimeCo, *, 1500, 750
+        FOG_Tshirt_Black_FOG_Reaper, *, 1500, 750
+        FOG_Tshirt_Tan_FOG_Reaper, *, 1500, 750
+        FOG_Tshirt_Black_FOG1, *, 1500, 750
+        FOG_Tshirt_Black_FOG2, *, 1500, 750
+        FOG_Tshirt_Black_MLG, *, 1500, 750
+        FOG_Tshirt_Black_Raider, *, 1500, 750
+        FOG_Tshirt_Black_Sfartaetc, *, 1500, 750
+        FOG_Tshirt_Black_Thrasher, *, 1500, 750
+        FOG_Tshirt_Grey_CHLaw_Pinup, *, 1500, 750
+        FOG_Tshirt_White_Pinup, *, 1500, 750
+        FOG_Tshirt_White_Star, *, 1500, 750
+        FOG_UFJ_Shirt_MC, *, 1500, 750
+        FOG_UFJ_Shirt_MCB, *, 1500, 750
+        FOG_UFJ_Shirt_RG, *, 1500, 750
+        FOG_UFJ_Shirt_CB, *, 1500, 750
+        FOG_UFJ_Shirt_Black, *, 1500, 750
+        FOG_UFJ_Shirt_Grey, *, 1500, 750
+        FOG_UFJ_Shirt_ERDL, *, 1500, 750
+        FOG_UFJ_Shirt_ERDL_RG, *, 1500, 750
+        FOG_Gorka_Jacket_Khaki, *, 1500, 750
+        FOG_Gorka_Jacket_Black, *, 1500, 750
+        FOG_Gorka_Jacket_Green, *, 1500, 750
+        FOG_Gorka_Jacket_Partizan, *, 1500, 750
+        FOG_Gorka_Jacket_Autumn, *, 1500, 750
+        FOG_Gorka_Jacket_Summer, *, 1500, 750
+        FOG_MTF_Shirt_Black, *, 1500, 750
+        FOG_MTF_Shirt_Grey, *, 1500, 750
+        FOG_MTF_Shirt_Blue, *, 1500, 750
+        FOG_MTF_Shirt_KHK, *, 1500, 750
+        FOG_MTF_Shirt_RG, *, 1500, 750
+        FOG_MTF_Shirt_CB, *, 1500, 750
+        FOG_MTF_Shirt_ERDL, *, 1500, 750
+        FOG_MTF_Shirt_MC, *, 1500, 750
+        FOG_MTF_Shirt_MCB, *, 1500, 750
+        FOG_MTF_Shirt_FK, *, 1500, 750
+        FOG_MTF_Shirt_TS, *, 1500, 750
+        FOG_L9Patagonia_Black, *, 1500, 750
+        FOG_L9Patagonia_CB, *, 1500, 750
+        FOG_L9Patagonia_RG, *, 1500, 750
+        FOG_L9Patagonia_MC, *, 1500, 750
+        FOG_L9Patagonia_MCB, *, 1500, 750
+        FOG_L9Patagonia_MCT, *, 1500, 750
+        FOG_L9Patagonia_MCA, *, 1500, 750
+        FOG_L9Patagonia_MCAL, *, 1500, 750
+        FOG_L9Patagonia_M81, *, 1500, 750
+        FOG_L9Patagonia_WDTGR, *, 1500, 750
+        FOG_Tactical_Fleece_Grey, *, 1500, 750
+        FOG_Tactical_Fleece_Black, *, 1500, 750
+        FOG_Tactical_Fleece_RG, *, 1500, 750
+        FOG_Tactical_Fleece_CB, *, 1500, 750
+        FOG_Tactical_Fleece_MC, *, 1500, 750
+        FOG_Tactical_Fleece_Arctic, *, 1500, 750
+        FOG_Hooded_Parka_OG, *, 1500, 750
+        FOG_Hooded_Parka_Black, *, 1500, 750
+        FOG_Hooded_Parka_RG, *, 1500, 750
+        FOG_Hooded_Parka_CB, *, 1500, 750
+        FOG_Hooded_Parka_MC, *, 1500, 750
+        FOG_Hooded_Parka_ALP, *, 1500, 750
+        FOG_RugbyShirt_BLK, *, 1500, 750
+        FOG_RugbyShirt_CB, *, 1500, 750
+        FOG_RugbyShirt_KHK, *, 1500, 750
+        FOG_RugbyShirt_MC, *, 1500, 750
+        FOG_RugbyShirt_MCB, *, 1500, 750
+        FOG_RugbyShirt_MCT, *, 1500, 750
+        FOG_RugbyShirt_RG, *, 1500, 750
+
+        <Category>FOG RuckSack
+
+        FOG_Bergen_Rucksack_Black, *, 10000, 7500
+        FOG_Bergen_Rucksack_Green, *, 10000, 7500
+        FOG_Bergen_Rucksack_Woodland, *, 10000, 7500
+        FOG_Bergen_Rucksack_Multicam, *, 10000, 7500
+        FOG_Bergen_Rucksack_ERDL, *, 10000, 7500
+
+        <Category>FOG Draw Bridge Bag
+
+        FOG_Bag_DrawBridge_CB, *, 5000, 2500
+        FOG_Bag_DrawBridge_RG, *, 5000, 2500
+        FOG_Bag_DrawBridge_OD, *, 5000, 2500
+        FOG_Bag_DrawBridge_Tan, *, 5000, 2500
+        FOG_Bag_DrawBridge_Black, *, 5000, 2500
+        FOG_Bag_DrawBridge_Grey, *, 5000, 2500
+
+        <Category>FOG F4Terminator Bag
+
+        FOG_Bag_F4Terminator, *, 1500, 550
+        FOG_Bag_F4Terminator_BlackTiger, *, 1500, 550
+        FOG_Bag_F4Terminator_Black, *, 1500, 550
+        FOG_Bag_F4Terminator_RG, *, 1500, 550
+        FOG_Bag_F4Terminator_CB, *, 1500, 550
+        FOG_Bag_F4Terminator_OD, *, 1500, 550
+
+        <Category>FOG MRASAP Bag
+
+        FOG_Bag_MRASAP_Black, *, 2000, 550
+        FOG_Bag_MRASAP_Grey, *, 2000, 550
+        FOG_Bag_MRASAP_RG, *, 2000, 550
+        FOG_Bag_MRASAP_CB, *, 2000, 550
+        FOG_Bag_MRASAP_MC, *, 2000, 550
+
+        <Category>FOG BlackJack Bag
+
+        FOG_Bag_BlackJack_MC, *, 10000, 6500
+        FOG_Bag_BlackJack_RG, *, 10000, 6500
+        FOG_Bag_BlackJack_CB, *, 10000, 6500
+        FOG_Bag_BlackJack_MCB, *, 10000, 6500
+        FOG_Bag_BlackJack_ERDL, *, 10000, 6500
+        FOG_Bag_BlackJack_Black, *, 10000, 6500
+
+        <Category>FOG SSO Bag
+
+        FOG_Bag_SSO_Tan, *, 10000, 6000
+        FOG_Bag_SSO_Black, *, 10000, 6000
+        FOG_Bag_SSO_MC, *, 10000, 6000
+        FOG_Bag_SSO_CB, *, 10000, 6000
+        FOG_Bag_SSO_MCB, *, 10000, 6000
+        FOG_Bag_SSO_Toxic, *, 10000, 6000
+
+        <Category>FOG Trizip Bag
+
+        FOG_Bag_Trizip_Puke, *, 6000, 3400
+        FOG_Bag_Trizip_Black, *, 6000, 3400
+        FOG_Bag_Trizip_RG, *, 6000, 3400
+        FOG_Bag_Trizip_OD, *, 6000, 3400
+        FOG_Bag_Trizip_CB, *, 6000, 3400
+        FOG_Bag_Trizip_RGCB, *, 6000, 3400
+        FOG_Bag_Trizip_MARPAT, *, 6000, 3400
+        FOG_Bag_Trizip_ATACSFG, *, 6000, 3400
+        FOG_Bag_Trizip_DCU, *, 6000, 3400
+        FOG_Bag_Trizip_ERDL, *, 6000, 3400
+        FOG_Bag_Trizip_MC, *, 6000, 3400
+
+        <Category>FOG BISON Belt
+
+        FOG_BISON_Belt_CB, *, 1000, 250
+        FOG_BISON_Belt_RG, *, 1000, 250
+        FOG_BISON_Belt_Black, *, 1000, 250
+        FOG_BISON_Belt_MC, *, 1000, 250
+        FOG_BISON_Belt_MCB, *, 1000, 250
+
+        <Category>FOG RTGFB Belt, *, 1000, 250
+
+        FOG_Belt_RTGFB_CB, *, 2000, 1500
+        FOG_Belt_RTGFB_MC, *, 2000, 1500
+        FOG_Belt_RTGFB_RG, *, 2000, 1500
+        FOG_Belt_RTGFB_Black, *, 2000, 1500
+        FOG_Belt_RTGFB_AOR1, *, 2000, 1500
+        FOG_Belt_RTGFB_AOR2, *, 2000, 1500
+        FOG_Belt_RTGFB_ALP, *, 2000, 1500
+
+        <Category>FOG MRB Belt
+
+        FOG_MRB_Belt_CB, *, 2000, 1500
+        FOG_MRB_Belt_MC, *, 2000, 1500
+        FOG_MRB_Belt_MCB, *, 2000, 1500
+        FOG_MRB_Belt_RG, *, 2000, 1500
+        FOG_MRB_Belt_AOR1, *, 2000, 1500
+        FOG_MRB_Belt_AOR2, *, 2000, 1500
+        FOG_MRB_Belt_ATACSAU, *, 2000, 1500
+        FOG_MRB_Belt_Black, *, 2000, 1500
+        FOG_MRB_Belt_6CD, *, 2000, 1500
+        FOG_MRB_Belt_MCT, *, 2000, 1500
+
+        <Category>FOG Gloves
+
+        FOG_FerroGloves_Tan, *, 300, 150
+        FOG_FerroGloves_Grey, *, 300, 150
+        FOG_FerroGloves_Red, *, 300, 150
+        FOG_FerroGloves_Blue, *, 300, 150
+        FOG_FerroGloves_White, *, 300, 150
+        FOG_FerroGloves_White_TanTrim, *, 300, 150
+        FOG_FerroGloves_CB, *, 300, 150
+        FOG_FerroGloves_RG, *, 300, 150
+        FOG_FerroGloves_Black, *, 300, 150
+        FOG_FerroGloves_Black_WhiteTrim, *, 300, 150
+        FOG_FerroGloves_Black_BlueTrim, *, 300, 150
+        FOG_FerroGloves_Black_RedTrim, *, 300, 150
+        FOG_FerroGloves_Black_TanTrim, *, 300, 150
+        FOG_FerroGloves_MC, *, 300, 150
+        FOG_FerroGloves_MCB, *, 300, 150
+        FOG_FerroGloves_M81, *, 300, 150
+        FOG_FerroGloves_AJ, *, 300, 150
+        FOG_Tactical_Fingerless_Gloves_Green, *, 300, 150
+        FOG_Tactical_Fingerless_Gloves_Black, *, 300, 150
+        FOG_Tactical_Fingerless_Gloves_Tan, *, 300, 150
+        FOG_Tactical_Fingerless_Gloves_MC, *, 300, 150
+        FOG_Tactical_Fingerless_Gloves_Red, *, 300, 150
+        FOG_GunGloves_Tan, *, 300, 150
+        FOG_GunGloves_Grey, *, 300, 150
+        FOG_GunGloves_Black, *, 300, 150
+        FOG_GunGloves_CB, *, 300, 150
+        FOG_GunGloves_RG, *, 300, 150
+        FOG_GunGloves_MC, *, 300, 150
+        FOG_GunGloves_MCB, *, 300, 150
+        FOG_GunGloves_M81, *, 300, 150
+        FOG_GunGloves_AOR2, *, 300, 150
+
+        <Category>FOG Air Frame Helmet
+
+        FOG_Helmet_Airframe_CB, *, 1500, 250
+        FOG_Helmet_Airframe_RG, *, 1500, 250
+        FOG_Helmet_Airframe_Black, *, 1500, 250
+        FOG_Helmet_Airframe_Tan, *, 1500, 250
+        FOG_Helmet_Airframe_OD, *, 1500, 250
+
+        <Category>FOG FAST Bump Helmet 
+
+        FOG_Helmet_FAST_Bump_Tan, *, 2500, 1800
+        FOG_Helmet_FAST_Bump_CB, *, 2500, 1800
+        FOG_Helmet_FAST_Bump_RG, *, 2500, 1800
+        FOG_Helmet_FAST_Bump_OD, *, 2500, 1800
+        FOG_Helmet_FAST_Bump_Black, *, 2500, 1800
+        FOG_Helmet_FAST_Bump_Grey, *, 2500, 1800
+        FOG_Helmet_FAST_Bump_MC, *, 2500, 1800
+        FOG_Helmet_FAST_Bump_MCB, *, 2500, 1800
+        FOG_Helmet_FAST_Bump_MCT, *, 2500, 1800
+        FOG_Helmet_FAST_Bump_ERDL, *, 2500, 1800
+
+        <Category>FOG FASTMT Helmet 
+
+        FOG_Helmet_FASTMT_Tan, *, 3000, 1800
+        FOG_Helmet_FASTMT_Black, *, 3000, 1800
+        FOG_Helmet_FASTMT_RG, *, 3000, 1800
+        FOG_Helmet_FASTMT_CB, *, 3000, 1800
+        FOG_Helmet_FASTMT_Grey, *, 3000, 1800
+        FOG_Helmet_FASTMT_MC, *, 3000, 1800
+        FOG_Helmet_FASTMT_MCB, *, 3000, 1800
+        FOG_Helmet_FASTMT_MCT, *, 3000, 1800
+        FOG_Helmet_FASTMT_MCAL, *, 3000, 1800
+        FOG_Helmet_FASTMT_M81, *, 3000, 1800
+        FOG_Helmet_FASTMT_AOR1, *, 3000, 1800
+        FOG_Helmet_FASTMT_AOR2, *, 3000, 1800
+
+        <Category>FOG FastSF Helmet 
+
+        FOG_Helmet_FAST_SF_Tan, *, 3500, 1800
+        FOG_Helmet_FAST_SF_Tan_BLK, *, 3500, 1800
+        FOG_Helmet_FAST_SF_RG, *, 3500, 1800
+        FOG_Helmet_FAST_SF_RG_BLK, *, 3500, 1800
+        FOG_Helmet_FAST_SF_Black, *, 3500, 1800
+        FOG_Helmet_FAST_SF_MudTan, *, 3500, 1800
+        FOG_Helmet_FAST_SF_CB, *, 3500, 1800
+        FOG_Helmet_FAST_SF_CB_BLK, *, 3500, 1800
+        FOG_Helmet_FAST_SF_MC, *, 3500, 1800
+        FOG_Helmet_FAST_SF_MCB, *, 3500, 1800
+        FOG_Helmet_FAST_SF_MCB2, *, 3500, 1800
+        FOG_Helmet_FAST_SF_ERDL, *, 3500, 1800
+        FOG_Helmet_FAST_SF_ERDL_BLK, *, 3500, 1800
+
+        <Category>FOG MICH2000 Helmet 
+
+        FOG_Helmet_MICH2000_Tan, *, 5000, 2750
+        FOG_Helmet_MICH2000_TanRattle, *, 5000, 2750
+        FOG_Helmet_MICH2000_Black, *, 5000, 2750
+        FOG_Helmet_MICH2000_RG, *, 5000, 2750
+        FOG_Helmet_MICH2000_RGRattle, *, 5000, 2750
+        FOG_Helmet_MICH2000_OD, *, 5000, 2750
+        FOG_Helmet_MICH2000_CB, *, 5000, 2750
+        FOG_Helmet_MICH2000_Grey, *, 5000, 2750
+        FOG_Helmet_MICH2000_MC, *, 5000, 2750
+        FOG_Helmet_MICH2000_MCB, *, 5000, 2750
+        FOG_Helmet_MICH2000_M81, *, 5000, 2750
+
+        <Category>FOG Exfil Helmet
+
+        FOG_Helmet_Exfil_MC, *, 5000, 3000
+        FOG_Helmet_Exfil_Black, *, 5000, 3000
+        FOG_Helmet_Exfil_Tan, *, 5000, 3000
+        FOG_Helmet_Exfil_RG, *, 5000, 3000
+
+        <Category>FOG Head Gear
+
+        FOG_HMTL_Light_Tan, *, 700, 450
+        FOG_IR_Marker, *, 700, 450
+        FOG_Manta_Strobe_Tan, *, 700, 450
+        FOG_MOHOC, *, 700, 450
+
+        <Category>FOG Head Phones
+
+        FOG_Comtac3_Headphones_AJ, *, 100, 50
+        FOG_Comtac3_Headphones_CB, *, 100, 50
+        FOG_Comtac3_Headphones_FG, *, 100, 50
+        FOG_Comtac3_Headphones_RG, *, 100, 50
+        FOG_Comtac3_Headphones_RG_01, *, 100, 50
+        FOG_Comtac3_Headphones_RG_XPI, *, 100, 50
+        FOG_Comtac3_Headphones_RG_Spray, *, 100, 50
+        FOG_Comtac3_Headphones_Black, *, 100, 50
+        FOG_Comtac3_Headphones_CB_Velcro, *, 100, 50
+        FOG_Comtac3_Headphones_RG_Velcro, *, 100, 50
+        FOG_Comtac3_Headphones_FG_Velcro, *, 100, 50
+        FOG_Comtac3_Headphones_Tan_Velcro, *, 100, 50
+        FOG_Comtac3_Headphones_Black_Velcro, *, 100, 50
+
+        <Category>FOG Comtac IV
+
+        FOG_Comtac_IV_CB, *, 100, 50
+        FOG_Comtac_IV_RG, *, 100, 50
+        FOG_Comtac_IV_Black, *, 100, 50
+
+        <Category>FOG M32 Helmet
+
+        FOG_M32_Helmet_RG, *, 100, 25
+        FOG_M32_Helmet_Black, *, 100, 25
+
+        <Category>FOG AMP
+
+        FOG_AMP_Tan, *, 100, 25
+        FOG_AMP_MC, *, 100, 25
+        FOG_AMP_Black, *, 100, 25
+        FOG_AMP_MCB, *, 100, 25
+        FOG_AMP_MCBT, *, 100, 25
+
+        <Category>FOG SF Cover
+
+        FOG_SF_Cover_MC, *, 2500, 1500
+        FOG_SF_Cover_MCB, *, 2500, 1500
+        FOG_SF_Cover_MCA, *, 2500, 1500
+        FOG_SF_Cover_MCAL, *, 2500, 1500
+        FOG_SF_Cover_MCT, *, 2500, 1500
+        FOG_SF_Cover_AOR1, *, 2500, 1500
+        FOG_SF_Cover_AOR2, *, 2500, 1500
+        FOG_SF_Cover_M81, *, 2500, 1500
+        FOG_SF_Cover_CB, *, 2500, 1500
+        FOG_SF_Cover_RG, *, 2500, 1500
+        FOG_SF_Cover_Black, *, 2500, 1500
+
+        <Category>FOG Battery Pack
+
+        FOG_SF_BatteryPack_Tan, *, 500, 250
+        FOG_SF_BatteryPack_RG, *, 500, 250
+        FOG_SF_BatteryPack_MC, *, 500, 250
+        FOG_SF_BatteryPack_MCB, *, 500, 250
+        FOG_SF_BatteryPack_Black, *, 500, 250
+
+        <Category>FOG FC Torus BattPack, *, 1000, 250
+
+        FOG_FC_Torus_BattPack_MC, *, 100, 50
+        FOG_FC_Torus_BattPack_MCB, *, 100, 50
+        FOG_FC_Torus_BattPack_Black, *, 100, 50
+        FOG_FC_Torus_BattPack_CB, *, 100, 50
+        FOG_FC_Torus_BattPack_RG, *, 100, 50
+
+        <Category>FOG Balaclava FastMT Mandable
+
+        FOG_FastMT_Mandable_Tan, *, 3000, 550
+        FOG_FastMT_Mandable_MC, *, 3000, 550
+        FOG_FastMT_Mandable_Black, *, 3000, 550
+        FOG_FastMT_Mandable_RG, *, 3000, 550
+
+        <Category>FOG FastMT RAC
+
+        FOG_FastMT_RAC_Tan, *, 300, 250
+        FOG_FastMT_RAC_Black, *, 300, 250
+        FOG_FastMT_RAC_RG, *, 300, 250
+
+        <Category>FOG FastMT Cover
+
+        FOG_FASTMT_Cover_MC, *, 2500, 1500
+        FOG_FASTMT_Cover_MCB, *, 2500, 1500
+        FOG_FASTMT_Cover_AOR1, *, 2500, 1500
+        FOG_FASTMT_Cover_AOR2, *, 2500, 1500
+        FOG_FASTMT_Cover_ALP, *, 2500, 1500
+        FOG_FASTMT_Cover_RG, *, 2500, 1500
+        FOG_FASTMT_Cover_Black, *, 2500, 1500
+
+        <Category>FOG Air Frame Cover
+
+        FOG_Airframe_Cover_CB, *, 2500, 1500
+        FOG_Airframe_Cover_MC, *, 2500, 1500
+        FOG_Airframe_Cover_Black, *, 2500, 1500
+        FOG_Airframe_Cover_MCB, *, 2500, 1500
+        FOG_Airframe_Cover_RG, *, 2500, 1500
+        FOG_Airframe_Cover_ALP, *, 2500, 1500
+        FOG_Airframe_Cover_AOR1, *, 2500, 1500
+        FOG_Airframe_Cover_AOR2, *, 2500, 1500
+
+        <Category>FOG Head Gear
+
+        FOG_COMTAC3_Headset_CB, *, 500, 250
+        FOG_COMTAC3_Headset_RG, *, 500, 250
+
+        <Category>FOG Head Set
+
+        FOG_M32_Headset_RG, *, 500, 250
+        FOG_M32_Headset_Black, *, 500, 250
+
+        <Category>FOG Ronin
+
+        FOG_Ronin_Hat, *, 500, 250
+        FOG_Ronin_Hat_Black, *, 500, 250
+
+        <Category>FOG Soft Cap
+
+        FOG_SoftCap_MC, *, 500, 250
+
+        <Category>FOG Boonie
+
+        FOG_Boonie_MC, *, 500, 250
+        FOG_Boonie_MCB, *, 500, 250
+        FOG_Boonie_AOR1, *, 500, 250
+        FOG_Boonie_AOR2, *, 500, 250
+        FOG_Boonie_M81, *, 500, 250
+        FOG_Boonie_Black, *, 500, 250
+        FOG_Boonie_Grey, *, 500, 250
+        FOG_Boonie_Khk, *, 500, 250
+        FOG_Boonie_RG, *, 500, 250
+        FOG_Boonie_CB, *, 500, 250
+
+        <Category>FOG Balaclava
+
+        FOG_Arcteryx_Balaclava_CB, *, 500, 250
+        FOG_Arcteryx_Balaclava_RG, *, 500, 250
+        FOG_Arcteryx_Balaclava_Grey, *, 500, 250
+        FOG_Arcteryx_Balaclava_Black, *, 500, 250
+
+        <Category>FOG AVONM53
+
+        FOG_AVONM53_Black, *, 500, 250
+        FOG_AVONM53_Red, *, 500, 250
+        FOG_AVONM53_Clear, *, 500, 250
+
+        <Category>FOG Ops Core SOTR
+
+        FOG_OpsCore_SOTR, *, 500, 250
+
+        <Category>FOG Ghost HeadSet
+
+        FOG_Ghost_Headset_Tan, *, 500, 250
+
+        <Category>FOG Ghost Mask
+
+        FOG_Ghost_Mask_New, *, 500, 250
+        FOG_Ghost_Mask_Black, *, 500, 250
+        FOG_Ghost_Mask_Black_White, *, 500, 250
+        FOG_Ghost_Mask_Black_Gold, *, 500, 250
+        FOG_Ghost_Mask_RG, *, 500, 250
+        FOG_Ghost_Mask_Tan, *, 500, 250
+        FOG_Ghost_Mask_Red, *, 500, 250
+        FOG_Ghost_Mask_Red_Gold, *, 500, 250
+
+        <Category>FOG Knight Mask 
+
+        FOG_Knight_Mask, *, 500, 250
+        FOG_Knight_Mask_Black, *, 500, 250
+
+        <Category>FOG Gas Mask 
+
+        FOG_M50_Gasmask_Black, *, 500, 250
+
+        <Category>FOG Mustache
+
+        FOG_Mustache_Brown, *, 500, 250
+
+        <Category>FOG Hooded Cloak
+
+        FOG_Hooded_Cloak_Grey, *, 1000, 250
+        FOG_Hooded_Cloak_RG, *, 1000, 250
+        FOG_Hooded_Cloak_Black, *, 1000, 250
+
+        <Category>FOG Glasses
+
+        FOG_Glasses_ESS_Black, *, 500, 250
+        FOG_Glasses_ESS_FDE, *, 500, 250
+
+        <Category>FOG Pit Vipers
+
+        FOG_Glasses_PitViper_SunKist, *, 1000, 250
+        FOG_Glasses_PitViper_Gold, *, 1000, 250
+        FOG_Glasses_PitViper_Murica, *, 1000, 250
+        FOG_Glasses_PitViper_Brights, *, 1000, 250
+        FOG_Glasses_PitViper_Tropics, *, 1000, 250
+        FOG_Glasses_PitViper_Yellow, *, 1000, 250
+        FOG_Glasses_PitViper_Red, *, 1000, 250
+
+        <Category>FOG Ghillie Suit 
+
+        FOG_GhillieSuit_Tan, *, 1000, 250
+        FOG_GhillieSuit_Green, *, 1000, 250
+
+        <Category>FOG Sniper Hood 
+
+        FOG_SniperHood_Black, *, 500, 250
+        FOG_SniperHood_RG, *, 500, 250
+        FOG_SniperHood_CB, *, 500, 250
+        FOG_SniperHood_Grey, *, 500, 250
+        FOG_SniperHood_MC, *, 500, 250
+        FOG_SniperHood_MC_Black, *, 500, 250
+        FOG_SniperHood_MCB, *, 500, 250
+        FOG_SniperHood_MCT, *, 500, 250
+        FOG_SniperHood_MCAL, *, 500, 250
+        FOG_SniperHood_M81, *, 500, 250
+
+        <Category>FOG NVGs
+
+        FOG_GPNVG_Tan, *, 5000, 3750
+        FOG_GPNVG_Black, *, 5000, 3750
+        FOG_GPNVG_RG, *, 5000, 3750
+        FOG_GPNVG_Elite, *, 5000, 3750
+        FOG_PVS31, *, 5000, 3750
+        FOG_PVS31_Wrapped, *, 5000, 3750
+        FOG_PVS31_FDE, *, 5000, 3750
+        FOG_PVS31_FDE_Wrapped, *, 5000, 3750
+        FOG_PVS31A_Black, *, 5000, 3750
+
+        <Category>FOG Tarsier
+
+        FOG_Tarsier, *, 500, 250
+
+        <Category>FOG Boots And Shoes 
+
+        FOG_DEFCONVans_Shoes_Black, *, 150, 75
+        FOG_DEFCONVans_Shoes_Grey, *, 150, 75
+        FOG_DEFCONVans_Shoes_RG, *, 150, 75
+        FOG_DEFCONVans_Shoes_CB, *, 150, 75
+        FOG_DEFCONVans_Shoes_KHK, *, 150, 75
+        FOG_DEFCONVans_Shoes_Blue, *, 150, 75
+        FOG_DEFCONVans_Shoes_Red, *, 150, 75
+        FOG_DEFCONVans_Shoes_MC, *, 150, 75
+        FOG_DEFCONVans_Shoes_MCB, *, 150, 75
+        FOG_DEFCONVans_Shoes_MCT, *, 150, 75
+        FOG_DEFCONVans_Shoes_MCAL, *, 150, 75
+        FOG_Combat_HikingBoots_Brown, *, 150, 75
+        FOG_Combat_HikingBoots_Khaki, *, 150, 75
+        FOG_Combat_HikingBoots_Grey, *, 150, 75
+        FOG_Combat_HikingBoots_Black, *, 150, 75
+        FOG_Operator_Boots_CB, *, 150, 75
+        FOG_Operator_Boots_Black, *, 150, 75
+        FOG_Operator_Boots_RG, *, 150, 75
+        FOG_Zypher_Boots_Tan_Socks, *, 150, 75
+        FOG_Zypher_Boots_Tan_NoSocks, *, 150, 75
+        FOG_Zypher_Boots_Black_Socks, *, 150, 75
+        FOG_Zypher_Boots_Black_NoSocks, *, 150, 75
+        FOG_Zypher_Boots_RG_Socks, *, 150, 75
+        FOG_Zypher_Boots_RG_NoSocks, *, 150, 75
+        FOG_Zypher_Boots_CB_Socks, *, 150, 75
+        FOG_Zypher_Boots_CB_NoSocks, *, 150, 75
+        FOG_Lerch_Boots_Black, *, 150, 75
+        FOG_Lerch_Boots_Black_Dirty, *, 150, 75
+        FOG_Lerch_Boots_MC, *, 150, 75
+        FOG_Lerch_Boots_MCB, *, 150, 75
+        FOG_Lerch_Boots_Khk, *, 150, 75
+        FOG_Lerch_Boots_RG, *, 150, 75
+        FOG_Lerch_Boots_CB, *, 150, 75
+
+        <Category>FOG AVS Vests
+
+        FOG_Vest_AVS_MC, *, 3500, 1700
+        FOG_Vest_AVS_CB, *, 3500, 1700
+        FOG_Vest_AVS_Black, *, 3500, 1700
+        FOG_Vest_AVS_RG, *, 3500, 1700
+        FOG_Vest_AVS_AOR1, *, 3500, 1700
+        FOG_Vest_AVS_AOR2, *, 3500, 1700
+        FOG_Vest_AVS_ALP, *, 3500, 1700
+
+        <Category>FOG JPC Vests 
+
+        FOG_Vest_JPC_CB, *, 3500, 1700
+        FOG_Vest_JPC_MC, *, 3500, 1700
+        FOG_Vest_JPC_Black, *, 3500, 1700
+        FOG_Vest_JPC_RG, *, 3500, 1700
+        FOG_Vest_JPC_AOR1, *, 3500, 1700
+        FOG_Vest_JPC_AOR2, *, 3500, 1700
+        FOG_Vest_JPC_ALP, *, 3500, 1700
+
+        <Category>FOG CPC Vests 
+
+        FOG_Vest_CPC_CB, *, 3500, 1700
+        FOG_Vest_CPC_RG, *, 3500, 1700
+        FOG_Vest_CPC_Black, *, 3500, 1700
+        FOG_Vest_CPC_MC, *, 3500, 1700
+        FOG_Vest_CPC_MCB, *, 3500, 1700
+        FOG_Vest_CPC_MCA, *, 3500, 1700
+        FOG_Vest_CPC_MCAL, *, 3500, 1700
+        FOG_Vest_CPC_AOR1, *, 3500, 1700
+        FOG_Vest_CPC_AOR2, *, 3500, 1700
+        FOG_Vest_CPC_ATACS, *, 3500, 1700
+
+        <Category>FOG LBT6094 Vests
+
+        FOG_Vest_LBT6094_CB, *, 6575, 3250
+        FOG_Vest_LBT6094_MC, *, 6575, 3250
+        FOG_Vest_LBT6094_Black, *, 6575, 3250
+        FOG_Vest_LBT6094_RG, *, 6575, 3250
+        FOG_Vest_LBT6094_Blue, *, 6575, 3250
+        FOG_Vest_LBT6094_AOR1, *, 6575, 3250
+        FOG_Vest_LBT6094_AOR2, *, 6575, 3250
+
+        <Category>FOG TacTec Vests 
+
+        FOG_Vest_TacTec_CB, *, 3500, 1700
+        FOG_Vest_TacTec_OD, *, 3500, 1700
+        FOG_Vest_TacTec_RG, *, 3500, 1700
+        FOG_Vest_TacTec_Black, *, 3500, 1700
+        FOG_Vest_TacTec_Grey, *, 3500, 1700
+        FOG_Vest_TacTec_MC, *, 3500, 1700
+        FOG_Vest_TacTec_MCB, *, 3500, 1700
+
+        <Category>FOG MMAC Vests 
+
+        FOG_Vest_MMAC_MC, *, 7550, 3500
+        FOG_Vest_MMAC_CB, *, 7550, 3500
+        FOG_Vest_MMAC_Black, *, 7550, 3500
+        FOG_Vest_MMAC_RG, *, 7550, 3500
+        FOG_Vest_MMAC_AOR2, *, 7550, 3500
+
+        <Category>FOG TV110T Vests 
+
+        FOG_Vest_TV110T_Tan, *, 2000, 1700
+        FOG_Vest_TV110T_CB, *, 2000, 1700
+        FOG_Vest_TV110T_Black, *, 2000, 1700
+        FOG_Vest_TV110T_RG, *, 2000, 1700
+        FOG_Vest_TV110T_AU, *, 2000, 1700
+        FOG_Vest_TV110T_FG, *, 2000, 1700
+        FOG_Vest_TV110T_MC, *, 2000, 1700
+
+        <Category>FOG FCPC Vests 
+
+        FOG_Vest_FCPC_RG, *, 3500, 1700
+        FOG_Vest_FCPC_CB, *, 3500, 1700
+        FOG_Vest_FCPC_Black, *, 3500, 1700
+        FOG_Vest_FCPC_Grey, *, 3500, 1700
+        FOG_Vest_FCPC_MC, *, 3500, 1700
+        FOG_Vest_FCPC_MCB, *, 3500, 1700
+        FOG_Vest_FCPC_MCAL, *, 3500, 1700
+        FOG_Vest_FCPC_MCA, *, 3500, 1700
+        FOG_Vest_FCPC_MCT, *, 3500, 1700
+        FOG_Vest_FCPC_AOR1, *, 3500, 1700
+        FOG_Vest_FCPC_AOR2, *, 3500, 1700
+        FOG_Vest_FCPC_M81, *, 3500, 1700
+
+        <Category>FOG LV119 Vests 
+
+        FOG_Vest_LV119_CB, *, 1900, 1000
+        FOG_Vest_LV119_RG, *, 1900, 1000
+        FOG_Vest_LV119_OD, *, 1900, 1000
+        FOG_Vest_LV119_Black, *, 1900, 1000
+        FOG_Vest_LV119_MC, *, 1900, 1000
+        FOG_Vest_LV119_MCB, *, 1900, 1000
+        FOG_Vest_LV119_M81, *, 1900, 1000   
+
+        <Category>FOG LVMBAC Vests 
+
+        FOG_Vest_LVMBAV_CB, *, 1800, 950
+        FOG_Vest_LVMBAV_RG, *, 1800, 950
+        FOG_Vest_LVMBAV_Black, *, 1800, 950
+        FOG_Vest_LVMBAV_Tan, *, 1800, 950
+
+        <Category>FOG PACA Vests 
+
+        FOG_Vest_PACA_Black, *, 1800, 950
+
+        <Category>FOG THOR Vests 
+
+        FOG_Vest_Thor_Tan, *, 25000, 12500
+        FOG_Vest_Thor_Black, *, 25000, 12500
+        FOG_Vest_Thor_Green, *, 25000, 12500
+        FOG_Vest_Thor_EMR, *, 25000, 12500
+        FOG_Vest_Thor_MC, *, 25000, 12500
+        FOG_Vest_Thor_MCB, *, 25000, 12500
+        FOG_Vest_Thor_M81, *, 25000, 12500
+
+        <Category>FOG Osprey Vests 
+
+        FOG_Vest_Osprey_RG, *, 17500, 9500
+        FOG_Vest_Osprey_Grey, *, 17500, 9500
+        FOG_Vest_Osprey_CB, *, 17500, 9500
+        FOG_Vest_Osprey_Black, *, 17500, 9500
+        FOG_Vest_Osprey_MC, *, 17500, 9500
+        FOG_Vest_Osprey_MC_Black, *, 17500, 9500
+        FOG_Vest_Osprey_MCT, *, 17500, 9500
+        FOG_Vest_Osprey_MCB, *, 17500, 9500
+        FOG_Vest_Osprey_MCAL, *, 17500, 9500
+        FOG_Vest_Osprey_M81, *, 17500, 9500
+
+        <Category>FOG Gen4 Vests 
+
+        FOG_Vest_Gen4_Black, *, 15000, 8500
+        FOG_Vest_Gen4_Green, *, 15000, 8500
+        FOG_Vest_Gen4_Tan, *, 15000, 8500
+        FOG_Vest_Gen4_EMR, *, 15000, 8500
+        FOG_Vest_Gen4_UCP, *, 15000, 8500
+        FOG_Vest_Gen4_NWU, *, 15000, 8500
+        FOG_Vest_Gen4_MARPAT, *, 15000, 8500
+
+        <Category>FOG SSMK4 Vests 
+
+        FOG_Vest_SSMK4_CB, *, 750, 350
+        FOG_Vest_SSMK4_RG, *, 750, 350
+        FOG_Vest_SSMK4_Black, *, 750, 350
+        FOG_Vest_SSMK4_Grey, *, 750, 350
+        FOG_Vest_SSMK4_MC, *, 750, 350
+        FOG_Vest_SSMK4_MCA, *, 750, 350
+        FOG_Vest_SSMK4_MCT, *, 750, 350
+        FOG_Vest_SSMK4_M81, *, 750, 350
+
+        <Category>FOG D3CRX Vests 
+
+        FOG_Vest_D3CRX_CB, *, 750, 350
+        FOG_Vest_D3CRX_RG, *, 750, 350
+        FOG_Vest_D3CRX_Black, *, 750, 350
+        FOG_Vest_D3CRX_Grey, *, 750, 350
+
+        <Category>FOG Mag Pouches  
+
+        FOG_TV110T_MagPouches_Tan, *, 750, 250
+        FOG_TV110T_MagPouches_CB, *, 750, 250
+        FOG_TV110T_MagPouches_Black, *, 750, 250
+        FOG_TV110T_MagPouches_RG, *, 750, 250
+        FOG_TV110T_MagPouches_AU, *, 750, 250
+        FOG_TV110T_MagPouches_FG, *, 750, 250
+        FOG_TV110T_MagPouches_MC, *, 750, 250
+
+        <Category>FOG Fast Mag Pouch
+
+        FOG_TV110T_FastMag_Tan, *, 750, 250
+        FOG_TV110T_FastMag_CB, *, 750, 250
+        FOG_TV110T_FastMag_Black, *, 750, 250
+        FOG_TV110T_FastMag_RG, *, 750, 250
+        FOG_TV110T_FastMag_AU, *, 750, 250
+        FOG_TV110T_FastMag_FG, *, 750, 250
+        FOG_TV110T_FastMag_MC, *, 750, 250
+
+        <Category>FOG Grenade Pouch 
+
+        FOG_TV110T_GrenadePouch_Tan, *, 750, 250
+        FOG_TV110T_GrenadePouch_CB, *, 750, 250
+        FOG_TV110T_GrenadePouch_Black, *, 750, 250
+        FOG_TV110T_GrenadePouch_RG, *, 750, 250
+        FOG_TV110T_GrenadePouch_AU, *, 750, 250
+        FOG_TV110T_GrenadePouch_FG, *, 750, 250
+        FOG_TV110T_GrenadePouch_MC, *, 750, 250
+
+        <Category>FOG Medkit Pouch
+
+        FOG_TV110T_Medkit_Tan, *, 750, 250
+        FOG_TV110T_Medkit_CB, *, 750, 250
+        FOG_TV110T_Medkit_Black, *, 750, 250
+        FOG_TV110T_Medkit_RG, *, 750, 250
+        FOG_TV110T_Medkit_AU, *, 750, 250
+        FOG_TV110T_Medkit_FG, *, 750, 250
+        FOG_TV110T_Medkit_MC, *, 750, 250
+
+        <Category>FOG Ulitity Pouch
+
+        FOG_TV110T_UtilityPouch_Tan, *, 750, 250
+        FOG_TV110T_UtilityPouch_CB, *, 750, 250
+        FOG_TV110T_UtilityPouch_Black, *, 750, 250
+        FOG_TV110T_UtilityPouch_RG, *, 750, 250
+        FOG_TV110T_UtilityPouch_AU, *, 750, 250
+        FOG_TV110T_UtilityPouch_FG, *, 750, 250
+        FOG_TV110T_UtilityPouch_MC, *, 750, 250
+
+        <Category> FOG TV110T Admin Spiritus Pouch
+
+        FOG_TV110T_AdminPouch_Tan, *, 750, 250
+        FOG_TV110T_AdminPouch_CB, *, 750, 250
+        FOG_TV110T_AdminPouch_Black, *, 750, 250
+        FOG_TV110T_AdminPouch_RG, *, 750, 250
+        FOG_TV110T_AdminPouch_AU, *, 750, 250
+        FOG_TV110T_AdminPouch_FG, *, 750, 250
+        FOG_TV110T_AdminPouch_MC, *, 750, 250
+
+        <Category> FOG Admin Small Spiritus Pouch
+
+        FOG_Pouch_Admin_Small_CB, *, 750, 250
+        FOG_Pouch_Admin_Small_RG, *, 750, 250
+        FOG_Pouch_Admin_Small_MC, *, 750, 250
+        FOG_Pouch_Admin_Small_Black, *, 750, 250
+        FOG_Pouch_Admin_Small_AOR1, *, 750, 250
+        FOG_Pouch_Admin_Small_AOR2, *, 750, 250
+        FOG_Pouch_Admin_Small_ALP, *, 750, 250
+
+        <Category> FOG Admin Spiritus Pouch
+
+        FOG_Pouch_Admin_Spiritus_MC, *, 750, 250
+        FOG_Pouch_Admin_Spiritus_MCB, *, 750, 250
+        FOG_Pouch_Admin_Spiritus_M81, *, 750, 250
+        FOG_Pouch_Admin_Spiritus_Black, *, 750, 250
+        FOG_Pouch_Admin_Spiritus_CB, *, 750, 250
+        FOG_Pouch_Admin_Spiritus_RG, *, 750, 250
+
+        <Category>FOG Big Patch
+
+        FOG_Big_Patch_US_Colored, *, 50, 25
+        FOG_Big_Patch_US_MC_IR, *, 50, 25
+        FOG_Big_Patch_UK_Colored, *, 50, 25
+        FOG_Big_Patch_RedMan, *, 50, 25
+        FOG_Big_Patch_FOG_cc, *, 50, 25
+        FOG_Big_Patch_CrimeCo, *, 50, 25
+        FOG_Big_Patch_FOG_BB, *, 50, 25
+        FOG_Big_Patch_FOG_BB_EMB, *, 50, 25
+        FOG_Big_Patch_JTAC, *, 50, 25
+        FOG_Big_Patch_FBI, *, 50, 25
+        FOG_Big_Patch_Medic, *, 50, 25
+        FOG_Big_Patch_Shaka, *, 50, 25
+        FOG_Big_Patch_SOG, *, 50, 25
+        FOG_Big_Patch_TACP, *, 50, 25
+
+        <Category>FOG Small Patch
+
+        FOG_Small_Patch_US_IR, *, 50, 25
+        FOG_Small_Patch_US_IR_Damaged, *, 50, 25
+        FOG_Small_Patch_US_Subdued, *, 50, 25
+        FOG_Small_Patch_UK_Subdued, *, 50, 25
+
+        <Category>FOG Flag Roll
+
+        FOG_FlagRoll_US, *, 50, 25
+        FOG_FlagRoll_US_Black, *, 50, 25
+        FOG_FlagRoll_Pirate, *, 50, 25
+
+        <Category>FOG Tall Pouch
+
+        FOG_Pouch_Tall_Spiritus_MC, *, 750, 250
+        FOG_Pouch_Tall_Spiritus_MCB, *, 750, 250
+        FOG_Pouch_Tall_Spiritus_M81, *, 750, 250
+        FOG_Pouch_Tall_Spiritus_Black, *, 750, 250
+        FOG_Pouch_Tall_Spiritus_CB, *, 750, 250
+        FOG_Pouch_Tall_Spiritus_RG, *, 750, 250
+
+        <Category>FOG Belly Pouch
+
+        FOG_Pouch_Belly_MC, *, 750, 250
+        FOG_Pouch_Belly_AOR2, *, 750, 250
+        FOG_Pouch_Belly_Black, *, 750, 250
+        FOG_Pouch_Belly_CB, *, 750, 250
+        FOG_Pouch_Belly_RG, *, 750, 250
+
+        <Category> FOG FannyPack Pouch 
+
+        FOG_Pouch_FannyPack_Black, *, 750, 250
+        FOG_Pouch_FannyPack_RG, *, 750, 250
+        FOG_Pouch_FannyPack_CB, *, 750, 250
+        FOG_Pouch_FannyPack_KHK, *, 750, 250
+        FOG_Pouch_FannyPack_MC, *, 750, 250
+        FOG_Pouch_FannyPack_MCB, *, 750, 250
+        FOG_Pouch_FannyPack_AOR2, *, 750, 250
+        FOG_Pouch_FannyPack_M81, *, 750, 250
+
+        <Category> FOG Belly Pouch Spirtitus
+
+        FOG_Pouch_Belly_Spiritus_MC, *, 750, 250
+        FOG_Pouch_Belly_Spiritus_MCB, *, 750, 250
+        FOG_Pouch_Belly_Spiritus_M81, *, 750, 250
+        FOG_Pouch_Belly_Spiritus_Black, *, 750, 250
+        FOG_Pouch_Belly_Spiritus_CB, *, 750, 250
+        FOG_Pouch_Belly_Spiritus_RG, *, 750, 250
+
+        <Category> FOG TraumaRoll Pouch
+
+        FOG_Pouch_TraumaRoll_Black, *, 750, 250
+        FOG_Pouch_TraumaRoll_CB, *, 750, 250
+        FOG_Pouch_TraumaRoll_RG, *, 750, 250
+        FOG_Pouch_TraumaRoll_Tan, *, 750, 250
+        FOG_Pouch_TraumaRoll_MC, *, 750, 250
+        FOG_Pouch_TraumaRoll_MCB, *, 750, 250
+        FOG_Pouch_TraumaRoll_AOR1, *, 750, 250
+        FOG_Pouch_TraumaRoll_AOR2, *, 750, 250
+
+        <Category> FOG Gernade Pouch 
+
+        FOG_Pouch_Grenade_MC, *, 750, 250
+        FOG_Pouch_Grenade_CB, *, 750, 250
+        FOG_Pouch_Grenade_Grey, *, 750, 250
+        FOG_Pouch_Grenade_RG, *, 750, 250
+        FOG_Pouch_Grenade_Black, *, 750, 250
+
+        <Category> FOG Mag Pouch IFAK
+
+        FOG_Pouch_IFAK_Brown, *, 750, 250
+        FOG_Pouch_IFAK_CB, *, 750, 250
+        FOG_Pouch_IFAK_RG, *, 750, 250
+        FOG_Pouch_IFAK_Grey, *, 750, 250
+        FOG_Pouch_IFAK_Black, *, 750, 250
+
+        <Category> FOG Mag Pouch AVS
+
+        FOG_Pouch_Mag_AVS_CB, *, 750, 250
+        FOG_Pouch_Mag_AVS_RG, *, 750, 250
+        FOG_Pouch_Mag_AVS_MC, *, 750, 250
+        FOG_Pouch_Mag_AVS_Black, *, 750, 250
+        FOG_Pouch_Mag_AVS_AOR1, *, 750, 250
+        FOG_Pouch_Mag_AVS_AOR2, *, 750, 250
+        FOG_Pouch_Mag_AVS_ALP, *, 750, 250
+
+        <Category> FOG Mag Pouch Dope
+
+        FOG_Pouch_Mag_Dope_RG, *, 750, 250
+        FOG_Pouch_Mag_Dope_CB, *, 750, 250
+        FOG_Pouch_Mag_Dope_Black, *, 750, 250
+        FOG_Pouch_Mag_Dope_Grey, *, 750, 250
+        FOG_Pouch_Mag_Dope_MC, *, 750, 250
+        FOG_Pouch_Mag_Dope_MCB, *, 750, 250
+        FOG_Pouch_Mag_Dope_MCA, *, 750, 250
+        FOG_Pouch_Mag_Dope_MCT, *, 750, 250
+        FOG_Pouch_Mag_Dope_MCAL, *, 750, 250
+        FOG_Pouch_Mag_Dope_M81, *, 750, 250
+        FOG_Pouch_Mag_Dope_AOR1, *, 750, 250
+        FOG_Pouch_Mag_Dope_AOR2, *, 750, 250
+
+        <Category> FOG Mag Pouch DW 
+
+        FOG_Pouch_Mag_DW_Black, *, 750, 250
+        FOG_Pouch_Mag_DW_RG, *, 750, 250
+        FOG_Pouch_Mag_DW_CB, *, 750, 250
+        FOG_Pouch_Mag_DW_Grey, *, 750, 250
+        FOG_Pouch_Mag_DW_MC, *, 750, 250
+        FOG_Pouch_Mag_DW_MCB, *, 750, 250
+        FOG_Pouch_Mag_DW_MCT, *, 750, 250
+        FOG_Pouch_Mag_DW_MCA, *, 750, 250
+        FOG_Pouch_Mag_DW_MCAL, *, 750, 250
+        FOG_Pouch_Mag_DW_M81, *, 750, 250
+        FOG_Pouch_Mag_DW_AOR1, *, 750, 250
+        FOG_Pouch_Mag_DW_AOR2, *, 750, 250
+
+        <Category> FOG Mag Pouch Kangaroo 
+
+        FOG_Pouch_Mag_Kangaroo_MC, *, 750, 250
+        FOG_Pouch_Mag_Kangaroo_AOR1, *, 750, 250
+        FOG_Pouch_Mag_Kangaroo_AOR2, *, 750, 250
+        FOG_Pouch_Mag_Kangaroo_Black, *, 750, 250
+        FOG_Pouch_Mag_Kangaroo_RG, *, 750, 250
+        FOG_Pouch_Mag_Kangaroo_CB, *, 750, 250
+        FOG_Pouch_Mag_Kangaroo_ALP, *, 750, 250
+
+        <Category> FOG Mag Pouch BlueFor
+
+        FOG_Pouch_Mag_BlueFor_MC, *, 750, 250
+        FOG_Pouch_Mag_BlueFor_RG, *, 750, 250
+        FOG_Pouch_Mag_BlueFor_CB, *, 750, 250
+        FOG_Pouch_Mag_BlueFor_Black, *, 750, 250
+        FOG_Pouch_Mag_BlueFor_AOR1, *, 750, 250
+        FOG_Pouch_Mag_BlueFor_AOR2, *, 750, 250
+        FOG_Pouch_Mag_BlueFor_ALP, *, 750, 250
+
+        <Category> FOG Mag Pouch KTAR
+
+        FOG_Pouch_Mag_KTAR_RG, *, 750, 250
+        FOG_Pouch_Mag_KTAR_CB, *, 750, 250
+        FOG_Pouch_Mag_KTAR_Black, *, 750, 250
+        FOG_Pouch_Mag_KTAR_Grey, *, 750, 250
+        FOG_Pouch_Mag_KTAR_MC, *, 750, 250
+        FOG_Pouch_Mag_KTAR_MCB, *, 750, 250
+        FOG_Pouch_Mag_KTAR_MCA, *, 750, 250
+        FOG_Pouch_Mag_KTAR_MCAL, *, 750, 250
+        FOG_Pouch_Mag_KTAR_MCT, *, 750, 250
+        FOG_Pouch_Mag_KTAR_M81, *, 750, 250
+        FOG_Pouch_Mag_KTAR_AOR1, *, 750, 250
+        FOG_Pouch_Mag_KTAR_AOR2, *, 750, 250
+
+        <Category> FOG Mag Pouch TEAR
+
+        FOG_Pouch_Mag_TEAR_RG, *, 750, 250
+        FOG_Pouch_Mag_TEAR_CB, *, 750, 250
+        FOG_Pouch_Mag_TEAR_Black, *, 750, 250
+        FOG_Pouch_Mag_TEAR_Grey, *, 750, 250
+        FOG_Pouch_Mag_TEAR_MC, *, 750, 250
+        FOG_Pouch_Mag_TEAR_MCB, *, 750, 250
+        FOG_Pouch_Mag_TEAR_MCT, *, 750, 250
+        FOG_Pouch_Mag_TEAR_MCA, *, 750, 250
+        FOG_Pouch_Mag_TEAR_MCAL, *, 750, 250
+        FOG_Pouch_Mag_TEAR_M81, *, 750, 250
+        FOG_Pouch_Mag_TEAR_AOR1, *, 750, 250
+        FOG_Pouch_Mag_TEAR_AOR2, *, 750, 250
+
+        <Category> FOG Mag Pouch LV119
+
+        FOG_Pouch_Mag_LV119_CB, *, 750, 250
+        FOG_Pouch_Mag_LV119_RG, *, 750, 250
+        FOG_Pouch_Mag_LV119_OD, *, 750, 250
+        FOG_Pouch_Mag_LV119_Black, *, 750, 250
+        FOG_Pouch_Mag_LV119_MC, *, 750, 250
+        FOG_Pouch_Mag_LV119_MCB, *, 750, 250
+
+        <Category> FOG Mag Pouch SSMK4
+
+        FOG_Pouch_Mag_SSMK4_CB, *, 750, 250
+        FOG_Pouch_Mag_SSMK4_RG, *, 750, 250
+        FOG_Pouch_Mag_SSMK4_Black, *, 750, 250
+        FOG_Pouch_Mag_SSMK4_Grey, *, 750, 250
+        FOG_Pouch_Mag_SSMK4_MC, *, 750, 250
+        FOG_Pouch_Mag_SSMK4_MCA, *, 750, 250
+        FOG_Pouch_Mag_SSMK4_MCT, *, 750, 250
+        FOG_Pouch_Mag_SSMK4_M81, *, 750, 250
+
+        <Category>FOG JPC Panel
+
+        FOG_JPC_Panel_CB_Flag_US, *, 750, 250
+        FOG_JPC_Panel_RG_Flag_US, *, 750, 250
+        FOG_JPC_Panel_Black_Flag_US, *, 750, 250
+        FOG_JPC_Panel_MC_Flag_US, *, 750, 250
+        FOG_JPC_Panel_AOR1_Flag_US, *, 750, 250
+        FOG_JPC_Panel_AOR2_Flag_US, *, 750, 250
+
+        <Category>FOG FC Panel
+
+        FOG_FC_Panel_Black_Flag_US, *, 750, 250
+        FOG_FC_Panel_CB_Flag_US, *, 750, 250
+        FOG_FC_Panel_RG_Flag_US, *, 750, 250
+        FOG_FC_Panel_Grey_Flag_US, *, 750, 250
+        FOG_FC_Panel_MC_Flag_US, *, 750, 250
+        FOG_FC_Panel_MCT_Flag_US, *, 750, 250
+        FOG_FC_Panel_MCA_Flag_US, *, 750, 250
+        FOG_FC_Panel_ALP_Flag_US, *, 750, 250
+        FOG_FC_Panel_M81_Flag_US, *, 750, 250
+        FOG_FC_Panel_ALP_Flag_US, *, 750, 250
+        FOG_FC_Panel_AOR1_Flag_US, *, 750, 250
+        FOG_FC_Panel_AOR2_Flag_US, *, 750, 250
+
+        <Category> FOG Map Pack
+
+        FOG_Panel_MapPackMed_Black, *, 750, 250
+        FOG_Panel_MapPackMed_CB, *, 750, 250
+        FOG_Panel_MapPackMed_RG, *, 750, 250
+        FOG_Panel_MapPackMed_Khk, *, 750, 250
+
+        <Category> FOG PhoneCase
+
+        FOG_Vest_PhoneCase1_Tan, *, 750, 250
+        FOG_Vest_PhoneCase1_Grey, *, 750, 250
+        FOG_Vest_PhoneCase1_Black, *, 750, 250
+        FOG_Vest_PhoneCase1_RG, *, 750, 250
+
+        <Category> FOG Tourniquet
+
+        FOG_Tourniquet, *, 750, 250
+
+        <Category> FOG Dump Pouch
+
+        FOG_Pouch_Dump_MC, *, 750, 250
+        FOG_Pouch_Dump_MCB, *, 750, 250
+        FOG_Pouch_Dump_AOR2, *, 750, 250
+        FOG_Pouch_Dump_Black, *, 750, 250
+        FOG_Pouch_Dump_CB, *, 750, 250
+        FOG_Pouch_Dump_RG, *, 750, 250
+
+        <Category> Single Mag Holster
+
+        FOG_Pouch_SingleMag_MC, *, 750, 250
+        FOG_Pouch_SingleMag_MCB, *, 750, 250
+        FOG_Pouch_SingleMag_RG, *, 750, 250
+        FOG_Pouch_SingleMag_Black, *, 750, 250
+        FOG_Pouch_SingleMag_CB, *, 750, 250
+
+        <Category>FOG Pouch Esstac
+
+        FOG_Pouch_Esstac_MC, *, 750, 250
+        FOG_Pouch_Esstac_Black, *, 750, 250
+        FOG_Pouch_Esstac_ALP, *, 750, 250
+        FOG_Pouch_Esstac_AOR1, *, 750, 250
+        FOG_Pouch_Esstac_AOR2, *, 750, 250
+        FOG_Pouch_Esstac_RG, *, 750, 250
+        FOG_Pouch_Esstac_CB, *, 750, 250
+
+        <Category>FOG RTGFB Holster
+
+        FOG_RTGFB_Holster_Tan, *, 750, 250
+        FOG_RTGFB_Holster_MC, *, 750, 250
+        FOG_RTGFB_Holster_RG, *, 750, 250
+        FOG_RTGFB_Holster_Black, *, 750, 250
+        FOG_RTGFB_Holster_ALP, *, 750, 250
+
+        <Category>FOG SAS Holster
+
+        FOG_SAS_Holster_Tan, *, 750, 250
+        FOG_SAS_Holster_Black, *, 750, 250
+        FOG_SAS_Holster_RG, *, 750, 250
+        FOG_SAS_Holster_CB, *, 750, 250
+        FOG_SAS_Holster_MC, *, 750, 250
+        FOG_SAS_Holster_MCB, *, 750, 250
+        FOG_SAS_Holster_M81, *, 750, 250
+
+        <Category>FOG Pouch LBT
+
+        FOG_Pouch_LBT_MC, *, 750, 250
+        FOG_Pouch_LBT_MCB, *, 750, 250
+
 		<Category>MMG NBC gear
 		MMG_nbc_pouch,		                    	*,		5000,		500
 

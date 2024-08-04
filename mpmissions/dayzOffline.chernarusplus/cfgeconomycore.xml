@@ -47,7 +47,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	 <file name="mmg_types_multicam.xml" type="types" />
 	 <file name="mmg_types_multicam_tropic.xml" type="types" />
 	 <file name="mmg_types_multicamblack.xml" type="types" />
-         <file name="mmg_types_NBC+NVG.xml" type="types" />
+	 <file name="mmg_types_NBC+NVG.xml" type="types" />
 	 <file name="mmg_types_patches.xml" type="types" />
 	 <file name="mmg_types_police.xml" type="types" />
 	 <file name="mmg_types_tan.xml" type="types" />
@@ -78,7 +78,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
   <file name="msp_types.xml" type="types" />
 </ce>
 <ce folder="mod_types/code">
-  <file name="types.xml" type="types" />
+  <file name="codetypes.xml" type="types" />
 </ce>
 <ce folder="mod_types/mck">
   <file name="types_MCK.xml" type="types" />
@@ -96,5 +96,28 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 </ce>
 <ce folder="mod_types/AWS">
   <file name="aws_types.xml" type="types" />
+</ce>
+<ce folder="mod_types/BaseFort">
+  <file name="baseforttypes.xml" type="types" />
+</ce>
+<ce folder="mod_types/MoreDrinks">
+  <file name="cj187moredrinks.xml" type="types" />
+</ce>
+<ce folder="mod_types/MoreFood">
+  <file name="morefoodtypes.xml" type="types" />
+</ce>
+<ce folder="mod_types/BBPItemPack">
+  <file name="BBPItemPacktypes.xml" type="types" />
+</ce>
+<ce folder="mod_types/Solar">
+  <file name="SolarTypes.xml" type="types" />
+</ce>
+<ce folder="mod_types/FOG">
+  <file name="FOG_Types.xml" type="types" />
+  <file name="FOG_spawnabletypes.xml" type="spawnabletypes" />
+</ce>
+<ce folder="mod_types/AMS">
+  <file name="types_AMS.xml" type="types" />
+  <file name="cfgspawnabletypes_AMS.xml" type="spawnabletypes" />
 </ce>
 </economycore>
